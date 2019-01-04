@@ -1,0 +1,91 @@
+.questionnaire{
+    position: relative;
+    height: 100%;
+    width:100%;
+    h1{
+        font-size: 0.39rem;
+    }
+    h2{
+        font-size: 0.38rem;
+    }
+    h3{
+        font-size: 0.37rem;
+    }
+    h4{
+        font-size: 0.36rem;
+    }
+    h5{
+        font-size:0.35rem;
+    }
+    h6{
+        font-size: 0.34rem;
+    }
+    .loading{
+        position: absolute;
+        left: 50%;
+        top: 50%;
+        transform: translate(-50%, -50%);
+        height: 1.1rem;
+        width: 1.1rem;
+    }
+    input{
+        padding-left: 0.24rem;
+    }
+    label>input{
+        height: 0.24rem;
+        width: 0.24rem;
+        margin-left: 0.07rem;
+    }
+    .sizeDiv{
+        display: flex;
+        justify-content: center;
+    }
+    .size{
+        width: 25%;
+        height:25%;
+    }
+    padding: 0.125rem 0rem 0.3125rem 0rem;
+    .van-radio{
+        overflow: visible;
+    }
+    .van-radio__input{
+        line-height: 0.53125rem;
+    }
+    .van-cell__title{
+        span{
+            line-height: 0.53125rem;
+        }
+    }
+    .van-cell{
+        font-size: 0.3rem;
+    }
+    .title{
+        text-align: center;
+        line-height: 1.25rem;
+        font-size:0.32rem;
+    }
+    .lh{
+        line-height: 1.40625rem;
+        font-size: 0.32rem;
+    }
+    .title span{
+        color: brown;
+    }
+    .target{
+        font-size:0.32rem;
+        padding:0.15625rem;
+    }
+    .miniTitle{
+        padding: 0.15625rem;
+        font-size: 0.3rem;
+    }
+  }
+  .van-toast div{
+    font-size: 0.26rem;
+  }
+  .van-button--large{
+      height: 0.8rem;
+      line-height: 0.8rem;
+      font-size: 0.32rem;
+      margin-bottom: 0.46rem;
+  }

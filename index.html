@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title></title>
+    <link rel="shortcut icon" type="image/x-icon" href="./src/assets/favicon.ico" rel="external nofollow" />
+    <meta name="viewport" content="initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <script type="text/javascript">
+        (function(doc, win) {
+            var docEl = doc.documentElement,
+                resizeEvt = 'orientationchange' in window ? 'orientationchange' : 'resize',
+                recalc = function() {
+                    var clientWidth = window.innerWidth && document.documentElement.clientWidth ? Math.min(window.innerWidth, document.documentElement.clientWidth) : window.innerWidth || document.documentElement.clientWidth || document.getElementsByTagName('body')[0].clientWidth;
+                    if(!clientWidth) return;
+                    docEl.style.fontSize = 100 * (clientWidth / 750) + 'px';
+                    var div = document.createElement('div');
+                    div.style.width = '1.4rem';
+                    div.style.height = '0';
+                    document.body.appendChild(div);
+                    var ideal = 140 * clientWidth / 750;
+                    var rmd = (div.clientWidth / ideal);
+                    if(rmd > 1.2 || rmd < 0.8) {
+                        docEl.style.fontSize = 100 * (clientWidth / 750) / rmd + 'px';
+                    }
+                    document.body.removeChild(div);
+                };
+            if(!doc.addEventListener) return;
+            win.addEventListener(resizeEvt, recalc, false);
+            doc.addEventListener('DOMContentLoaded', recalc, false);
+        })(document, window)
+    </script>
+    <script src="./static/jquery-3.2.1.js"></script>
+  </head>
+  <body>
+    <div id="app"></div>
+  </body>
+</html>

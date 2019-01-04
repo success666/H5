@@ -1,0 +1,831 @@
+{
+  "status": {
+     "code": 0,
+     "msg": ""
+  },
+  "data": {
+     "instructionResponseBean": {
+        "id": 5,
+        "hcStudentId": "ac10b660-097a-446d-af3f-556105f72fac",
+        "examineYear": 2018,
+        "schoolName": "测试学校2",
+        "regionName": "越秀区",
+        "identityNumber": "44010120070502002X",
+        "classTitle": "五年级(1)班",
+        "name": "蔡伟清",
+        "gender": "女",
+        "birthday": "2007-05-02 00:00:00.0",
+        "instructionZhpj": "身高评价：上等，营养评价：正常，课桌椅型号根据GB/T 3976-2014标准，建议选用2号或3号课桌椅，没有异常没有异常",
+        "instructionJyfc": null,
+        "instructionJyjz": null,
+        "instructionYyyd": "<div class=\"prescriptionContainer\">\n<h3>11~13岁学生膳食建议</h3>\n<p>&nbsp;&nbsp;孩子们正处于学习阶段，生长发育迅速，对能量和营养素的需要量相对高于成人。充足的营养是孩子们智力和体格正常发育，乃至一生健康的物质保障，因此，更需要合理膳食、均衡营养；爸爸妈妈是小朋友们形成良好进食习惯的关键因素，学习和掌握膳食营养知识，改变自身不健康饮食行为；在进餐时保持心情愉快，不要在进餐时批评孩子，可以更好地促进食物消化吸收，享受食物味道和营养。下面是一些给您的孩子的膳食营养建议：</p>\n<p>一、食物多样，谷类为主</p>\n<p>每天的膳食应该包括谷薯类、蔬菜水果类、畜禽鱼蛋奶类、大豆坚果类等食物；平均每天摄入12种以上食物，每周25种以上。</p>\n<table class=\"foodTable\" style=\"padding:5px;\">\n    <tr><th>食物类别</th><th>推荐量</th><th>举例</th></tr>\n    <tr><td>谷类</td><td>225~250 g/天</td><td>米饭、馒头、面条等</td></tr>\n    <tr><td>全谷物和杂豆类</td><td>30~70 g/天</td><td>小米、玉米、燕麦等</td></tr>\n    <tr><td>薯类</td><td>25~50 g/天</td><td>红薯、土豆、芋头等</td></tr>\n</table>\n<p>二、吃动平衡，健康体重：</p>\n<p>各个年龄段人群都应该天天运动、食不过量，保持健康体重。当运动量较大，力量训练较多时，可以适当增加蛋白质（如肉类、鸡蛋）等的摄入。具体的运动建议请参考运动处方部分。</p>\n<p>三、多吃蔬果、奶类和大豆：</p>\n<p>蔬菜水果是平衡膳食的重要组成部分，应该做到餐餐有蔬菜，多吃深色蔬菜；奶类富含钙，可以吃各种各样的奶制品；大豆富含优质蛋白质，经常吃豆制品；适量吃坚果。</p>\n<table class=\"foodTable\" style=\"padding:5px;\">\n    <tr><th>食物类别</th><th>推荐量</th><th>举例</th></tr>\n    <tr><td>蔬菜</td><td>400~450 g/天</td><td>菠菜、胡萝卜、南瓜等</td></tr>\n    <tr><td>水果</td><td>200~300 g/天</td><td>苹果、蓝莓、桃子等</td></tr>\n    <tr><td>奶类</td><td>300 g/天</td><td>牛奶、酸奶、奶粉等</td></tr>\n    <tr><td>大豆</td><td>105 g/周</td><td>黄豆、豆浆、豆腐等</td></tr>\n    <tr><td>坚果</td><td>50~70 g/周</td><td>板栗、核桃、腰果等</td></tr>\n</table>\n<p>四、适量吃鱼、禽、蛋、瘦肉：</p>\n<p>肉类摄入要适量，优先选择鱼和禽肉；少吃肥肉、烟熏和腌制肉制品。</p>\n<table class=\"foodTable\" style=\"padding:5px;\">\n    <tr><th>食物类别</th><th>推荐量</th><th>举例</th></tr>\n    <tr><td>畜禽肉</td><td>50 g/天</td><td>猪肉、鸡肉、鸭肉等</td></tr>\n    <tr><td>蛋类</td><td>40~50 g/天</td><td>鸡蛋、鸭蛋、鹌鹑蛋等</td></tr>\n    <tr><td>水产品</td><td>50 g/天</td><td>鱼、虾、贝类等</td></tr>\n</table>\n<p>五、少盐少油，控糖禁酒：</p>\n<p>培养清淡饮食习惯，少吃高盐和油炸食品；足量饮水，控制添加糖的摄入量，不喝含糖饮料。</p>\n<table class=\"foodTable\" style=\"padding:5px;\">\n    <tr><th>食物类别</th><th>推荐量</th><th>举例</th></tr>\n    <tr><td>食盐</td><td><6 g/天</td><td>零食含盐一般较多</td></tr>\n    <tr><td>烹调油</td><td>25~30 g/天</td><td>多用蒸煮等方法烹调</td></tr>\n    <tr><td>水</td><td>1000~1300 ml/天</td><td>白开水为最佳选择</td></tr>\n</table>\n<p>六、杜绝浪费，兴新时尚：</p>\n<p>珍惜食物，选择新鲜卫生的食物和适宜的烹调方式；食物制备生熟分开，熟食二次加热要热透；学会阅读食品标签，合理选择食物；多在家吃饭。</p>\n<p>（主要参考来源：中国居民膳食指南2016）</p>\n</div><br/><h4>膳食营养部分：</h4>\n<p>&nbsp;&nbsp;我们的膳食建议以《中国居民膳食指南2016》为蓝本，结合在体检中发现的问题，力求科学、严谨、有针对性。但是每个孩子都有自己特殊的地方，我们没有办法全面细致地了解每一个孩子，因此家长们在实行的时候，要结合孩子的自身情况进行斟酌，必要时可到专科门诊听取更加细致、个性化的建议。希望孩子们在我们共同的保驾护航下健康成长！</p><br/>",
+        "instructionJbyd": "<h4>总原则</h4>\n<p>在进行运动锻炼时，必须遵循以下原则</p>\n<ul>\n    <li>（一）安全性原则：指在运动过程中，要确保孩子不出现或尽量避免发生运动事故。</li>\n    <li>（二）全面发展原则：指在运动中，要使身体各部位都参与运动，使各器官系统的机能水平普遍得到提高。</li>\n    <li>（三）循序渐进原则：指科学地、逐步地增加运动时间和运动强度。</li>\n    <li>（四）个性化原则：指根据每个人的遗传特征、机能特点、运动习惯，制定个性化的运动方案。</li>\n</ul><br/><h4>总指南</h4>\n<ul>\n    <li>（一）应每天累计至少60分钟中等到高强度的身体活动，以有氧运动为主，每次最好10分钟以上。</li>\n    <li>（二）每周至少进行3次高强度身体活动（如长跑、游泳、打篮球等），3次抗阻力运动（如俯卧撑、仰卧起坐及引体向上等）和骨质增强运动。</li>\n    <li>（三）做到运动强度、形式以及部位的多样化，合理安排有氧和无氧运动、关节柔韧性活动、躯干和四肢大肌肉群的抗阻力训练、身体平衡和协调性练习等。</li>\n    <li>（四）注意运动姿势的正确性，以及低、中和高强度身体活动之间的过渡环节。</li>\n    <li>（五）运动前做好充分的准备活动，避免空腹运动，饭后1小时再进行运动，运动中和运动后注意补充水分。</li>\n    <li>（六）将运动生活化，如上下学步行、参加家务劳动等。</li>\n    <li>（七）充分利用在校期间的课间活动或体育课等时间，在户外阳光下活动。</li>\n    <li>（八）让学龄儿童了解久坐不动和长时间视屏带来的危害，每坐1小时，都要进行身体活动。不在卧室摆放电视、电脑，减少使用手机、电脑和看电视时间，每天不超过2小时，越少越好。</li>\n</ul><br/><h4>耐力提升运动指导建议</h4>\n<p>耐力练习可以提高肌肉力量和肌肉抗疲劳能力，促进孩子的成长发育，使体格更加强壮，预防因肌肉力量衰减出现的腰疼、肩颈痛等症状，提高身体协调和平衡能力。您的孩子耐力素质未达标，对于耐力素质的提升，运动建议如下：</p>\n<p>（一）运动项目：慢跑、跳绳、篮球、足球、羽毛球、网球</p>\n<p>（二）运动内容和手段</p>\n<ul>\n    <li>1、耐久跑：变速跑1000米（200米慢跑 200米快跑反复交替），或定时跑6~8分钟。</li>\n    <li>2、专门性练习：哑铃摆臂30秒~1分钟为一组，练3组；在沙坑进行两脚交换跳，1分钟为一组练3组。</li>\n    <li>3、柔韧性练习：四肢和躯干进行牵拉，如，压腿、立位体前屈等。</li>\n</ul>\n<p>（三）运动强度：心率控制在130~150次/分钟，运动后感觉有点呼吸急促、出汗或有点累。</p>\n<p>（四）运动时间：每次锻炼持续时间：30~50分钟，其中心率达到上述标准应保持10分钟</p>\n<p>（五）运动频率：每周4次，锻炼可在下午课后进行</p>\n<p>（六）注意事项</p>\n<ul>\n    <li>1、锻炼不可时断时续，要循序渐进。</li>\n    <li>2、如果身体状况出现异常，运动时有胸闷、头晕等现象，应暂停体育锻炼。</li>\n</ul><br/><h4>力量提升运动指导建议</h4>\n<p>力量是指在肌肉紧张或收缩时所表现出来的一种能力，是人体进行正常的生活工作和维持生命的最重要的机能素质,就体育运动而言,力量素质是运动的首要因素。 您的孩子力量素质未达标，对于力量素质的提升，运动建议如下：</p>\n<p>（一）运动项目</p>\n<ul>\n    <li>1、提高上肢肌群肌力：俯卧撑、引体向上、悬吊仰卧上拉、双杠臂屈伸</li>\n    <li>2、提高下肢肌群肌力：跑台阶、深蹲跳、直腿跳、立卧撑、蛙跳、跨步跳、单足跳</li>\n    <li>3、提高腰腹肌群肌力：仰卧起坐、仰卧举腿、两头起、两头背起</li>\n    <li></li>\n    <li></li>\n</ul>\n<p>（二）运动强度</p>\n<ul>\n    <li>1、运动心率控制范围 140~160 次／分钟，运动后感觉呼吸急促、感觉到累。</li>\n    <li>2、用力级别：60%左右</li>\n</ul>\n<p>（三）运动时间：10次�3组</p>\n<p>（四）运动频率：每周练习2~3次</p>\n<p>（五）注意事项</p>\n<ul>\n    <li>1、进行力量训练时，要注意自身的安全问题，预防运动损伤</li>\n    <li>2、各组间应得到较好休息</li>\n</ul><br/><h4>柔韧性素质提升运动指导建议</h4>\n<p>柔韧性既是一种重要的运动技能，也是日常生活中重要的活动能力。柔韧性的好与坏可以直接影响到人体协调性、动作幅度和肢体的灵活性。您的孩子柔韧性素质未达标，对于柔韧性素质的提升，运动建议如下：</p>\n<p>（一）运动项目：体操、舞蹈、游泳、瑜伽</p>\n<p>（二）运动强度</p>\n<ul>\n    <li>1、负荷强度：感到局部受到牵拉时的负荷，即为适合的负荷强度</li>\n    <li>2、持续时间：当练习部位出现牵拉的感觉时，停留10~15秒，以后逐渐延长持续时间，几周之后可增加到每次停留时间为45~60秒</li>\n    <li>3、重复的次数及间隔时间：停留10~60秒之后，稍事放松，待牵拉感觉缓解后，即刻开始下一次练习</li>\n</ul>\n<p>（三）运动时间：多个部位练习总时间10~20分钟</p>\n<p>（四）运动频率：每周2-3次，最好每天进行，效果最好</p>\n<p>（五）注意事项</p>\n<ul>\n    <li>1、进行主动性练习时，自己要控制好牵拉的强度。强度过小，会降低锻炼效果。但也要避免由于强度过大而引起损伤</li>\n    <li>2、进行柔韧性练习时，要注意避免用力过大 </li>\n    <li>3、练习时穿宽松的或弹性较好的衣服</li>\n</ul><br/><h4>速度提升运动指导建议</h4>\n<p>速度是人体进行快速运动的一种能力,具体表现形式有:反应速度、动作速度及周期性人体位移速度三种。您的孩子速度素质未达标，下面是给您的孩子的提高速度的运动处方：</p>\n<p>（一）运动项目：40米下坡、30米平地、30米上坡、负重半蹲起跳，采用重复练习法</p>\n<p>（二）运动强度</p>\n<ul>\n    <li>1、运动心率控制范围：140~160次/分钟，运动后感觉呼吸急促、感觉到累。</li>\n    <li>2、用力级别：60%~80%</li>\n</ul>\n<p>（三）运动时间：每次5组</p>\n<p>（四）运动频率：每周2~3次</p>\n<p>（五）注意事项</p>\n<ul>\n    <li>1、为了防止伤害，要充分做好准备活动</li>\n    <li>2、肌肉有痛感应立即停止练习</li>\n    <li>3、在运动伤害的恢复期间，不做此练习</li>\n    <li>4、避免强度过大</li>\n</ul><br/><h4>灵敏、协调、平衡素质提升运动指导建议</h4>\n<p>灵敏、协调、平衡素质是人的运动技能和各种素质在运动过程中的综合表现,可在急停、起动、转向、闪跑及多变的环境中迅速改变身体位置时表现出来。您的孩子灵敏、协调、平衡能力较差，下面是给您的孩子的提高这些能力的运动处方：</p>\n<p>（一）运动项目：跳绳、踢毽子、打乒乓球、羽毛球、网球等</p>\n<p>（二）运动强度</p>\n<ul>\n    <li>1、运动心率控制范围：130~150次/min，运动后感觉呼吸较急促、感觉稍累。</li>\n    <li>2、用力级别：40%~60%</li>\n</ul>\n<p>（三）运动时间：每次30分钟左右</p>\n<p>（四）运动频率：每周2~3次</p>\n<p>（五）注意事项</p>\n<ul>\n    <li>1、准备活动以压、拉韧带为主</li>\n    <li>2、必须穿着平跟运动鞋</li>\n    <li>3、运动前要进行热身，运动时要遵循循序渐进的原则</li>\n</ul><br/><h4>运动处方部分：</h4>\n<p>&nbsp;&nbsp;运动对于每一个孩子的健康成长至关重要。因此我们总结了在体检、体测中发现的普遍问题，帮孩子们制定了比较有针对性的运动处方。但是每个孩子都有自己特殊的地方，我们没有办法全面细致地了解每一个孩子，因此家长们在实行的时候，要结合孩子的自身情况进行斟酌，细心观察孩子们在运动中的表现，必要时可到专家门诊听取更加细致、个性化的建议。</p><br/>",
+        "instructionTyyd": null,
+        "instructionSxzd": null,
+        "examineTime": "2018-09-04 00:00:00.0"
+     },
+     "physicalReportTestResponseBean": {
+        "id": 58,
+        "hcStudentId": "ac10b660-097a-446d-af3f-556105f72fac",
+        "examineYear": "2018",
+        "organizateName": null,
+        "schoolName": "测试学校2",
+        "regionName": "越秀区",
+        "identityNumber": "44010120070502002X",
+        "classTitle": "五年级(1)班",
+        "name": "蔡伟清",
+        "gender": "女",
+        "birthday": "2007-05-02 00:00:00.0",
+        "examineTime": "2018-09-04 00:00:00.0",
+        "type": 1,
+        "examineItems": [
+           {
+              "id": 2566,
+              "physicalReportId": 58,
+              "code": "002008",
+              "name": "800米跑",
+              "checkValue": "247",
+              "displayValue": "3′67〞(分·秒)",
+              "checkComment": "不合格",
+              "checkResult": 0
+           },
+           {
+              "id": 2567,
+              "physicalReportId": 58,
+              "code": "002018",
+              "name": "跳绳",
+              "checkValue": "108",
+              "displayValue": "108(次/1分钟)",
+              "checkComment": "不合格",
+              "checkResult": 0
+           },
+           {
+              "id": 2568,
+              "physicalReportId": 58,
+              "code": "002012",
+              "name": "肺活量",
+              "checkValue": "2655",
+              "displayValue": "2655(ml)",
+              "checkComment": "合格",
+              "checkResult": 0
+           },
+           {
+              "id": 2569,
+              "physicalReportId": 58,
+              "code": "002004",
+              "name": "50米跑",
+              "checkValue": "14",
+              "displayValue": "14.6(s)",
+              "checkComment": "合格",
+              "checkResult": 0
+           },
+           {
+              "id": 2570,
+              "physicalReportId": 58,
+              "code": "002006",
+              "name": "50*8往返跑",
+              "checkValue": "237",
+              "displayValue": "3′57〞(分·秒)",
+              "checkComment": "合格",
+              "checkResult": 0
+           },
+           {
+              "id": 2571,
+              "physicalReportId": 58,
+              "code": "002013",
+              "name": "坐位体前屈",
+              "checkValue": "6",
+              "displayValue": "6(cm)",
+              "checkComment": "不合格",
+              "checkResult": 0
+           },
+           {
+              "id": 2572,
+              "physicalReportId": 58,
+              "code": "002011",
+              "name": "仰卧起坐",
+              "checkValue": "32",
+              "displayValue": "32(次/分)",
+              "checkComment": "不合格",
+              "checkResult": 0
+           },
+           {
+              "id": 2573,
+              "physicalReportId": 58,
+              "code": "002027",
+              "name": "体重",
+              "checkValue": "41",
+              "displayValue": "41.0(kg)",
+              "checkComment": "不合格",
+              "checkResult": 30
+           },
+           {
+              "id": 2574,
+              "physicalReportId": 58,
+              "code": "002026",
+              "name": "身高",
+              "checkValue": "162",
+              "displayValue": "162.0(cm)",
+              "checkComment": "合格",
+              "checkResult": 40
+           }
+        ]
+     },
+     "physicalReportExaminationResponseBean": {
+        "id": 41,
+        "hcStudentId": "ac10b660-097a-446d-af3f-556105f72fac",
+        "examineYear": "2018",
+        "organizateName": "新量度测试体检医院",
+        "schoolName": "测试学校2",
+        "regionName": "越秀区",
+        "identityNumber": "44010120070502002X",
+        "classTitle": "五年级(1)班",
+        "name": "蔡伟清",
+        "gender": "女",
+        "birthday": "2007-05-02 00:00:00.0",
+        "examineTime": "2018-11-14 00:00:00.0",
+        "type": 2,
+        "examineitemsTypeResponseBeans": [
+           {
+              "code": "ROUTINE_EXAMINATION",
+              "description": "常规",
+              "examineItems": [
+                 {
+                    "id": 1657,
+                    "physicalReportId": 41,
+                    "code": "001001001",
+                    "name": "身高",
+                    "checkValue": "166",
+                    "displayValue": "166.0(cm)",
+                    "checkComment": "上等",
+                    "checkResult": null
+                 },
+                 {
+                    "id": 1658,
+                    "physicalReportId": 41,
+                    "code": "001001002",
+                    "name": "体重",
+                    "checkValue": "52",
+                    "displayValue": "52.4(kg)",
+                    "checkComment": "上等",
+                    "checkResult": null
+                 },
+                 {
+                    "id": 1659,
+                    "physicalReportId": 41,
+                    "code": "001001003",
+                    "name": "收缩压",
+                    "checkValue": "96",
+                    "displayValue": "96(mmHg)",
+                    "checkComment": "正常",
+                    "checkResult": null
+                 },
+                 {
+                    "id": 1660,
+                    "physicalReportId": 41,
+                    "code": "001001004",
+                    "name": "舒张压",
+                    "checkValue": "75",
+                    "displayValue": "75(mmHg)",
+                    "checkComment": "正常高值血压",
+                    "checkResult": null
+                 },
+                 {
+                    "id": 1661,
+                    "physicalReportId": 41,
+                    "code": "001001005",
+                    "name": "肺活量",
+                    "checkValue": "3500",
+                    "displayValue": "3500(ml)",
+                    "checkComment": "上等",
+                    "checkResult": null
+                 },
+                 {
+                    "id": 1662,
+                    "physicalReportId": 41,
+                    "code": "001001006",
+                    "name": "脉搏",
+                    "checkValue": "70",
+                    "displayValue": "70(次/分)",
+                    "checkComment": "正常",
+                    "checkResult": null
+                 },
+                 {
+                    "id": 1663,
+                    "physicalReportId": 41,
+                    "code": "001001012",
+                    "name": "胸围",
+                    "checkValue": "-1",
+                    "displayValue": "",
+                    "checkComment": "",
+                    "checkResult": null
+                 },
+                 {
+                    "id": 1664,
+                    "physicalReportId": 41,
+                    "code": "001001013",
+                    "name": "腰围",
+                    "checkValue": "-1",
+                    "displayValue": "",
+                    "checkComment": "",
+                    "checkResult": null
+                 },
+                 {
+                    "id": 1665,
+                    "physicalReportId": 41,
+                    "code": "001001014",
+                    "name": "臀围",
+                    "checkValue": "-1",
+                    "displayValue": "",
+                    "checkComment": "",
+                    "checkResult": null
+                 },
+                 {
+                    "id": 1716,
+                    "physicalReportId": 41,
+                    "code": "001001009",
+                    "name": "BMI",
+                    "checkValue": "19",
+                    "displayValue": "19.02",
+                    "checkComment": "正常",
+                    "checkResult": null
+                 },
+                 {
+                    "id": 1717,
+                    "physicalReportId": 41,
+                    "code": "001001011",
+                    "name": "肺活量体重指数",
+                    "checkValue": "66",
+                    "displayValue": "66.79",
+                    "checkComment": null,
+                    "checkResult": null
+                 },
+                 {
+                    "id": 1719,
+                    "physicalReportId": 41,
+                    "code": "001001010",
+                    "name": "生长发育",
+                    "checkValue": "166",
+                    "displayValue": "166.00",
+                    "checkComment": "无参考标准",
+                    "checkResult": null
+                 }
+              ]
+           },
+           {
+              "code": "OPHTHALMIC_EXAMINATION",
+              "description": "眼科",
+              "examineItems": [
+                 {
+                    "id": 1666,
+                    "physicalReportId": 41,
+                    "code": "001002001",
+                    "name": "裸眼视力(左)",
+                    "checkValue": "5",
+                    "displayValue": "5.0",
+                    "checkComment": "正常",
+                    "checkResult": null
+                 },
+                 {
+                    "id": 1667,
+                    "physicalReportId": 41,
+                    "code": "001002002",
+                    "name": "裸眼视力(右)",
+                    "checkValue": "5",
+                    "displayValue": "5.2",
+                    "checkComment": "正常",
+                    "checkResult": null
+                 },
+                 {
+                    "id": 1668,
+                    "physicalReportId": 41,
+                    "code": "001002003",
+                    "name": "串镜检查(左)",
+                    "checkValue": "-1",
+                    "displayValue": "",
+                    "checkComment": "",
+                    "checkResult": null
+                 },
+                 {
+                    "id": 1669,
+                    "physicalReportId": 41,
+                    "code": "001002004",
+                    "name": "串镜检查(右)",
+                    "checkValue": "-1",
+                    "displayValue": "",
+                    "checkComment": "",
+                    "checkResult": null
+                 },
+                 {
+                    "id": 1670,
+                    "physicalReportId": 41,
+                    "code": "001002005",
+                    "name": "沙眼",
+                    "checkValue": "0",
+                    "displayValue": "正常",
+                    "checkComment": "",
+                    "checkResult": null
+                 },
+                 {
+                    "id": 1671,
+                    "physicalReportId": 41,
+                    "code": "001002007",
+                    "name": "结膜炎",
+                    "checkValue": "0",
+                    "displayValue": "正常",
+                    "checkComment": "",
+                    "checkResult": null
+                 },
+                 {
+                    "id": 1672,
+                    "physicalReportId": 41,
+                    "code": "001002009",
+                    "name": "其他眼病",
+                    "checkValue": "-1",
+                    "displayValue": "",
+                    "checkComment": "",
+                    "checkResult": null
+                 },
+                 {
+                    "id": 1673,
+                    "physicalReportId": 41,
+                    "code": "001002010",
+                    "name": "色觉",
+                    "checkValue": "0",
+                    "displayValue": "正常",
+                    "checkComment": "",
+                    "checkResult": null
+                 },
+                 {
+                    "id": 1674,
+                    "physicalReportId": 41,
+                    "code": "001002011",
+                    "name": "新发视力",
+                    "checkValue": "0",
+                    "displayValue": "否",
+                    "checkComment": "",
+                    "checkResult": null
+                 }
+              ]
+           },
+           {
+              "code": "ORAL_EXAMINATION",
+              "description": "口腔",
+              "examineItems": [
+                 {
+                    "id": 1701,
+                    "physicalReportId": 41,
+                    "code": "001008011",
+                    "name": "乳龋",
+                    "checkValue": "0",
+                    "displayValue": "0(只)",
+                    "checkComment": "正常",
+                    "checkResult": null
+                 },
+                 {
+                    "id": 1702,
+                    "physicalReportId": 41,
+                    "code": "001008012",
+                    "name": "恒龋",
+                    "checkValue": "0",
+                    "displayValue": "0(只)",
+                    "checkComment": "正常",
+                    "checkResult": null
+                 },
+                 {
+                    "id": 1703,
+                    "physicalReportId": 41,
+                    "code": "001008013",
+                    "name": "窝沟封闭",
+                    "checkValue": "1",
+                    "displayValue": "已封闭",
+                    "checkComment": "",
+                    "checkResult": null
+                 },
+                 {
+                    "id": 1704,
+                    "physicalReportId": 41,
+                    "code": "001008014",
+                    "name": "牙周病",
+                    "checkValue": "0",
+                    "displayValue": "正常",
+                    "checkComment": "",
+                    "checkResult": null
+                 },
+                 {
+                    "id": 1705,
+                    "physicalReportId": 41,
+                    "code": "001008020",
+                    "name": "唇腭裂",
+                    "checkValue": "0",
+                    "displayValue": "无",
+                    "checkComment": "",
+                    "checkResult": null
+                 },
+                 {
+                    "id": 1706,
+                    "physicalReportId": 41,
+                    "code": "001008021",
+                    "name": "乳龋失",
+                    "checkValue": "0",
+                    "displayValue": "0(只)",
+                    "checkComment": "",
+                    "checkResult": null
+                 },
+                 {
+                    "id": 1707,
+                    "physicalReportId": 41,
+                    "code": "001008022",
+                    "name": "乳龋补",
+                    "checkValue": "0",
+                    "displayValue": "0(只)",
+                    "checkComment": "",
+                    "checkResult": null
+                 },
+                 {
+                    "id": 1708,
+                    "physicalReportId": 41,
+                    "code": "001008023",
+                    "name": "恒龋失",
+                    "checkValue": "0",
+                    "displayValue": "0(只)",
+                    "checkComment": "",
+                    "checkResult": null
+                 },
+                 {
+                    "id": 1709,
+                    "physicalReportId": 41,
+                    "code": "001008024",
+                    "name": "恒龋补",
+                    "checkValue": "0",
+                    "displayValue": "0(只)",
+                    "checkComment": "",
+                    "checkResult": null
+                 },
+                 {
+                    "id": 1710,
+                    "physicalReportId": 41,
+                    "code": "001008025",
+                    "name": "口腔异常",
+                    "checkValue": "-1",
+                    "displayValue": "",
+                    "checkComment": "",
+                    "checkResult": null
+                 }
+              ]
+           },
+           {
+              "code": "OTORHINOLARYNGOLOGY",
+              "description": "耳鼻喉科",
+              "examineItems": [
+                 {
+                    "id": 1711,
+                    "physicalReportId": 41,
+                    "code": "001009015",
+                    "name": "听力",
+                    "checkValue": "0",
+                    "displayValue": "正常",
+                    "checkComment": "",
+                    "checkResult": null
+                 },
+                 {
+                    "id": 1712,
+                    "physicalReportId": 41,
+                    "code": "001009017",
+                    "name": "耳",
+                    "checkValue": "0",
+                    "displayValue": "正常",
+                    "checkComment": "",
+                    "checkResult": null
+                 },
+                 {
+                    "id": 1713,
+                    "physicalReportId": 41,
+                    "code": "001009018",
+                    "name": "鼻",
+                    "checkValue": "0",
+                    "displayValue": "正常",
+                    "checkComment": "",
+                    "checkResult": null
+                 },
+                 {
+                    "id": 1714,
+                    "physicalReportId": 41,
+                    "code": "001009019",
+                    "name": "扁桃体",
+                    "checkValue": "0",
+                    "displayValue": "正常",
+                    "checkComment": "",
+                    "checkResult": null
+                 },
+                 {
+                    "id": 1715,
+                    "physicalReportId": 41,
+                    "code": "001009020",
+                    "name": "耳鼻喉异常",
+                    "checkValue": "0",
+                    "displayValue": "无",
+                    "checkComment": "",
+                    "checkResult": null
+                 }
+              ]
+           },
+           {
+              "code": "INTERNAL_MEDICAL_EXAMINATION",
+              "description": "内科检查",
+              "examineItems": [
+                 {
+                    "id": 1689,
+                    "physicalReportId": 41,
+                    "code": "001005001",
+                    "name": "心脏杂音",
+                    "checkValue": "0",
+                    "displayValue": "正常",
+                    "checkComment": "",
+                    "checkResult": null
+                 },
+                 {
+                    "id": 1690,
+                    "physicalReportId": 41,
+                    "code": "001005002",
+                    "name": "心律失常",
+                    "checkValue": "0",
+                    "displayValue": "正常",
+                    "checkComment": "",
+                    "checkResult": null
+                 },
+                 {
+                    "id": 1691,
+                    "physicalReportId": 41,
+                    "code": "001005003",
+                    "name": "肺",
+                    "checkValue": "0",
+                    "displayValue": "正常",
+                    "checkComment": "",
+                    "checkResult": null
+                 },
+                 {
+                    "id": 1692,
+                    "physicalReportId": 41,
+                    "code": "001005004",
+                    "name": "肝",
+                    "checkValue": "0",
+                    "displayValue": "正常",
+                    "checkComment": "",
+                    "checkResult": null
+                 },
+                 {
+                    "id": 1693,
+                    "physicalReportId": 41,
+                    "code": "001005005",
+                    "name": "脾",
+                    "checkValue": "0",
+                    "displayValue": "正常",
+                    "checkComment": "",
+                    "checkResult": null
+                 },
+                 {
+                    "id": 1694,
+                    "physicalReportId": 41,
+                    "code": "001005006",
+                    "name": "腹部",
+                    "checkValue": "0",
+                    "displayValue": "正常",
+                    "checkComment": "",
+                    "checkResult": null
+                 },
+                 {
+                    "id": 1695,
+                    "physicalReportId": 41,
+                    "code": "001005007",
+                    "name": "胸透",
+                    "checkValue": "0",
+                    "displayValue": "无异常",
+                    "checkComment": "",
+                    "checkResult": null
+                 },
+                 {
+                    "id": 1696,
+                    "physicalReportId": 41,
+                    "code": "001005009",
+                    "name": "内科异常",
+                    "checkValue": "0",
+                    "displayValue": "没有异常",
+                    "checkComment": "",
+                    "checkResult": null
+                 },
+                 {
+                    "id": 1697,
+                    "physicalReportId": 41,
+                    "code": "001005010",
+                    "name": "胸透异常",
+                    "checkValue": "-1",
+                    "displayValue": "",
+                    "checkComment": "",
+                    "checkResult": null
+                 }
+              ]
+           },
+           {
+              "code": "SURGICAL_EXAMINATION",
+              "description": "外科检查",
+              "examineItems": [
+                 {
+                    "id": 1675,
+                    "physicalReportId": 41,
+                    "code": "001003001",
+                    "name": "头部",
+                    "checkValue": "0",
+                    "displayValue": "正常",
+                    "checkComment": "",
+                    "checkResult": null
+                 },
+                 {
+                    "id": 1676,
+                    "physicalReportId": 41,
+                    "code": "001003002",
+                    "name": "颈部",
+                    "checkValue": "0",
+                    "displayValue": "正常",
+                    "checkComment": "",
+                    "checkResult": null
+                 },
+                 {
+                    "id": 1677,
+                    "physicalReportId": 41,
+                    "code": "001003003",
+                    "name": "甲状腺",
+                    "checkValue": "0",
+                    "displayValue": "正常",
+                    "checkComment": "",
+                    "checkResult": null
+                 },
+                 {
+                    "id": 1678,
+                    "physicalReportId": 41,
+                    "code": "001003004",
+                    "name": "胸廓",
+                    "checkValue": "0",
+                    "displayValue": "正常",
+                    "checkComment": "",
+                    "checkResult": null
+                 },
+                 {
+                    "id": 1679,
+                    "physicalReportId": 41,
+                    "code": "001003005",
+                    "name": "脊柱",
+                    "checkValue": "0",
+                    "displayValue": "正常",
+                    "checkComment": "",
+                    "checkResult": null
+                 },
+                 {
+                    "id": 1680,
+                    "physicalReportId": 41,
+                    "code": "001003006",
+                    "name": "四肢",
+                    "checkValue": "0",
+                    "displayValue": "正常",
+                    "checkComment": "",
+                    "checkResult": null
+                 },
+                 {
+                    "id": 1681,
+                    "physicalReportId": 41,
+                    "code": "001003007",
+                    "name": "扁平足",
+                    "checkValue": "0",
+                    "displayValue": "正常",
+                    "checkComment": "",
+                    "checkResult": null
+                 },
+                 {
+                    "id": 1682,
+                    "physicalReportId": 41,
+                    "code": "001003008",
+                    "name": "皮肤",
+                    "checkValue": "0",
+                    "displayValue": "正常",
+                    "checkComment": "",
+                    "checkResult": null
+                 },
+                 {
+                    "id": 1683,
+                    "physicalReportId": 41,
+                    "code": "001003009",
+                    "name": "淋巴结",
+                    "checkValue": "0",
+                    "displayValue": "正常",
+                    "checkComment": "",
+                    "checkResult": null
+                 },
+                 {
+                    "id": 1684,
+                    "physicalReportId": 41,
+                    "code": "001003010",
+                    "name": "疝",
+                    "checkValue": "0",
+                    "displayValue": "正常",
+                    "checkComment": "",
+                    "checkResult": null
+                 },
+                 {
+                    "id": 1685,
+                    "physicalReportId": 41,
+                    "code": "001003011",
+                    "name": "男性外生殖器",
+                    "checkValue": "0",
+                    "displayValue": "正常",
+                    "checkComment": "",
+                    "checkResult": null
+                 },
+                 {
+                    "id": 1686,
+                    "physicalReportId": 41,
+                    "code": "001003012",
+                    "name": "外科异常",
+                    "checkValue": "0",
+                    "displayValue": "没有异常",
+                    "checkComment": "",
+                    "checkResult": null
+                 }
+              ]
+           },
+           {
+              "code": "OTHER_EXAMINATION",
+              "description": "其他检查",
+              "examineItems": [
+                 {
+                    "id": 1699,
+                    "physicalReportId": 41,
+                    "code": "001006004",
+                    "name": "粪蠕虫卵检查",
+                    "checkValue": "0",
+                    "displayValue": "阴性",
+                    "checkComment": "",
+                    "checkResult": null
+                 },
+                 {
+                    "id": 1700,
+                    "physicalReportId": 41,
+                    "code": "001006005",
+                    "name": "结核菌素试验",
+                    "checkValue": "0",
+                    "displayValue": "阴性",
+                    "checkComment": "",
+                    "checkResult": null
+                 }
+              ]
+           },
+           {
+              "code": "SEXUAL_DEVELOPMENT",
+              "description": "性发育",
+              "examineItems": [
+                 {
+                    "id": 1687,
+                    "physicalReportId": 41,
+                    "code": "001004001",
+                    "name": "男生首次遗精",
+                    "checkValue": "-1",
+                    "displayValue": "",
+                    "checkComment": "",
+                    "checkResult": null
+                 },
+                 {
+                    "id": 1688,
+                    "physicalReportId": 41,
+                    "code": "001004002",
+                    "name": "女生月经初潮",
+                    "checkValue": "1",
+                    "displayValue": "已",
+                    "checkComment": "",
+                    "checkResult": null
+                 }
+              ]
+           },
+           {
+              "code": "COMPREHENSIVE_EVALUATION",
+              "description": "综合评价",
+              "examineItems": [
+                 {
+                    "id": 1718,
+                    "physicalReportId": 41,
+                    "code": "001010001",
+                    "name": "课桌椅型号",
+                    "checkValue": "166",
+                    "displayValue": "166.00",
+                    "checkComment": "2号或3号",
+                    "checkResult": null
+                 }
+              ]
+           },
+           {
+              "code": "GUIDANCE_FOR_HIGHER_LEARNING",
+              "description": "升学指导",
+              "examineItems": []
+           }
+        ]
+     }
+  }
+}

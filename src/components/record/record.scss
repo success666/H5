@@ -1,0 +1,130 @@
+.record{
+    height: 100%;
+    width:100%;
+    background:#F2F1F6;
+    padding-top:0.2rem;
+    h1{
+        font-size: 0.39rem;
+    }
+    h2{
+        font-size: 0.38rem;
+    }
+    h3{
+        font-size: 0.37rem;
+    }
+    h4{
+        font-size: 0.36rem;
+    }
+    h5{
+        font-size:0.35rem;
+    }
+    h6{
+        font-size: 0.34rem;
+    }
+    .error{
+        text-align: center;
+        font-size: 0.3rem;
+    }
+    .title{
+        width:96%;
+        margin:0 auto;
+        border-radius: 0.1rem;
+        background:#fff;
+        margin-bottom:0.2rem;
+        padding-left: 0.12rem;
+        padding-top:0.12rem;
+        padding-bottom:0.12rem;
+        font-size: 0.3rem;
+        .lhTitle{
+            line-height:0.5rem;
+        }
+    }
+
+    .fianco{
+        width:96%;
+        margin:0 auto;
+        border-radius: 0.1rem;
+        background:#fff;
+        padding-bottom: 0.18rem;
+        margin-bottom:0.2rem;
+        font-size: 0.36rem;
+        p.ptitle{
+            line-height: 1rem;
+            padding-left: 0.1rem;
+        }
+        .bg{
+            font-size:0.32rem;
+            line-height: 1rem;
+            background:#FBFBFB;
+            .left{
+                padding-left:0.12rem;
+            }
+            .fr{
+                padding-right:0.12rem;
+            }
+        }
+        .van-tag{
+            color: #2696E0;
+            background: transparent;
+            font-size: 0.23rem;
+        }
+        .bgs{
+            line-height: 0.7rem;
+            font-size:0.3rem;
+            .left{
+                padding-left:0.12rem;
+            }
+            .fr{
+                padding-right:0.12rem;
+            }
+        }
+        .bgss{
+            background:#FBFBFB;
+            line-height: 0.7rem;
+            font-size:0.3rem;
+            .left{
+                padding-left:0.12rem;
+            }
+            .fr{
+                padding-right:0.12rem;
+            }
+        }
+    }
+
+    .examination{
+        background:#fff;
+        border-radius: 0.1rem;
+        width:96%;
+        margin:0 auto;
+        padding-bottom:0.42rem;
+        .van-cell{
+            background:#CCD7EE;
+            margin-bottom:0.1rem;
+            line-height: 0.4rem;
+            font-size:0.32rem;
+
+            .van-cell__right-icon{
+                line-height: 0.4rem;
+            }
+        }
+        p.ptitle{
+            line-height: 1rem;
+            padding-left: 0.12rem;
+            font-size: 0.36rem;
+        }
+        .bg{
+            background:#FBFBFB;
+            font-size:0.32rem;
+            line-height: 0.8rem;
+        }
+        .bgs{
+            font-size:0.32rem;
+            line-height: 0.8rem;
+        }
+        .van-tag{
+            font-size:0.22rem!important;
+            color: #2696E0;
+            background: transparent;
+        }
+    }
+}

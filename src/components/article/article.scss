@@ -1,0 +1,203 @@
+@media screen and (max-device-width:4000px){
+    .article{
+        width:640px;
+        margin:0 auto;
+        h1{
+            font-size: 32px;
+        }
+        h2{
+            font-size: 30px;
+        }
+        h3{
+            font-size: 28px;
+        }
+        h4{
+            font-size: 26px;
+        }
+        h5{
+            font-size:24px;
+        }
+        h6{
+            font-size: 22px;
+        }
+        section{
+            font-size: 0;
+        }
+        h6.ac{
+            font-size: 20px;
+        }
+        .van-nav-bar__title{
+            font-size:16px;
+        }
+        .van-nav-bar{
+            height: 60px;
+            line-height: 50px;
+        }
+        .ac{
+            padding-top: 40px;
+            font-size:16px;
+        }
+        .author{
+            font-size:16px;
+            padding-top:12px;
+            padding-bottom: 12px;
+        }
+        .content{
+
+            width:100%;
+            p{
+                font-size:16px;
+                line-height:28px;
+                span{
+                    font-size:16px!important;
+                }
+            }
+            span{
+                font-size:16px;
+                line-height:28px;
+            }
+        }
+        .border{
+            height:6px;
+            background: #FBFBFB;    
+        }
+        .img{
+            height: 40px;
+            width: 40px;
+            border-radius: 50%;
+        }
+        .review{
+            padding-bottom: 40px;
+            .reviewContent{
+                font-size:16px;
+            }
+            .usermsg{
+                font-size:12px;
+                line-height:20px;
+            }
+            .van-col--4{
+                height: 60px;
+                width:60px;
+                position: relative;
+                img{
+                    position: absolute;
+                }
+            }
+        }
+        .reviewTitle{
+            line-height: 60px;
+            font-size:22px;
+        }
+        .share{
+            padding: 20px 0px 20px 0px;
+            display:flex;
+            justify-content: center;
+            align-items: center 
+        }
+        .notreview{
+            padding-bottom:40px;
+        }
+    }
+}
+
+@media screen and (max-device-width:1024px){
+
+    .article{
+        width:100%;
+        h1{
+            font-size: 0.39rem;
+        }
+        h2{
+            font-size: 0.38rem;
+        }
+        h3{
+            font-size: 0.37rem;
+        }
+        h4{
+            font-size: 0.36rem;
+        }
+        h5{
+            font-size:0.35rem;
+        }
+        h6{
+            font-size: 0.34rem;
+        }
+        section{
+            span{
+                font-size:0.32rem!important;
+            }
+        }
+        h6.ac{
+            font-size: 0.44rem;
+        }
+        .van-nav-bar__title{
+            font-size:0.32rem;
+        }
+        .van-nav-bar{
+            height: 1.09375rem;
+            line-height: 1.09375rem;
+        }
+        .ac{
+            padding-top: 0.3125rem;
+            font-size: 0.32rem;
+        }
+        .author{
+            font-size:0.32rem;
+            padding:0.2rem;
+        }
+        .content{
+            padding: 0rem 0.1875rem 0rem 0.1875rem;
+            width:100%;
+            p{
+                font-size:0.32rem;
+                line-height: 0.54rem;
+                span{
+                    font-size:0.32rem!important;
+                }
+            }
+            span{
+                font-size:0.32rem;
+                line-height: 0.54rem;
+            }
+        }
+        .border{
+            height: 0.21875rem;
+            background: #FBFBFB;    
+        }
+        .img{
+            margin-left: 0.3125rem;
+            height: 0.9375rem;
+            width: 0.9375rem;
+            border-radius: 50%;
+        }
+        .review{
+            padding-bottom: 0.2rem;
+            .reviewContent{
+                font-size:0.28rem;
+                padding:0.3125rem;
+            }
+            .usermsg{
+                font-size:0.3rem;
+                line-height: 0.4rem;
+            }
+            .van-col--4{
+                height: 0.9375rem;
+                width:0.9375rem;
+            }
+            .van-col--16{
+                margin-left:0.4rem;
+            }
+        }
+        .reviewTitle{
+            line-height: 1.1rem;
+            padding: 0.1875rem;
+            font-size:0.4rem;
+        }
+        .share{
+            padding: 0.36875rem 0rem 0.36875rem 0rem;
+            display:flex;
+            justify-content: center;
+            align-items: center 
+        }
+    }
+}

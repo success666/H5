@@ -1,0 +1,2700 @@
+
+{
+    "id" : 21,
+    "questionareId" : "0deebc03-d677-4201-9e4a-a01849cd5dd9",
+    "questionareItemResponseBean" : [
+      {
+        "gender" : -1,
+        "cid" : "10,F10_5_1",
+        "sequence" : 1,
+        "id" : 1871,
+        "questionareItemOptionsBeans" : [
+          {
+            "id" : 3320,
+            "optionName" : "A",
+            "optionContent" : "父亲",
+            "questionareItemId" : 1871
+          },
+          {
+            "id" : 3321,
+            "optionName" : "B",
+            "optionContent" : "母亲",
+            "questionareItemId" : 1871
+          },
+          {
+            "id" : 3322,
+            "optionName" : "C",
+            "optionContent" : "父母共同填写",
+            "questionareItemId" : 1871
+          },
+          {
+            "id" : 3323,
+            "optionName" : "D",
+            "optionContent" : "（外）祖父\/母",
+            "questionareItemId" : 1871
+          },
+          {
+            "id" : 3324,
+            "optionName" : "E",
+            "optionContent" : "其他{0}",
+            "questionareItemId" : 1871
+          }
+        ],
+        "title" : "主要填表人",
+        "questionareItemResponseBean" : [
+  
+        ],
+        "questionType" : 0,
+        "required" : 1,
+        "questionareId" : "0deebc03-d677-4201-9e4a-a01849cd5dd9",
+        "subTitle" : "基本情况(由家长填写）"
+      },
+      {
+        "gender" : -1,
+        "cid" : "11,F11_1,F11_2,F11_3",
+        "sequence" : 2,
+        "id" : 1872,
+        "questionareItemOptionsBeans" : [
+  
+        ],
+        "title" : "您孩子的出生体重:{0}斤{0}两（请填写到两，如7斤5两；0.5Kg=1斤）出生身长：{0}cm",
+        "questionareItemResponseBean" : [
+  
+        ],
+        "questionType" : 2,
+        "required" : 1,
+        "questionareId" : "0deebc03-d677-4201-9e4a-a01849cd5dd9",
+        "subTitle" : "基本情况(由家长填写）"
+      },
+      {
+        "gender" : -1,
+        "cid" : "12,F12_1,F12_2,F13_3",
+        "sequence" : 3,
+        "id" : 1873,
+        "questionareItemOptionsBeans" : [
+  
+        ],
+        "title" : "孩子母亲怀孕前体重{0}kg，身高{0}cm；分娩前体重{0}kg",
+        "questionareItemResponseBean" : [
+  
+        ],
+        "questionType" : 2,
+        "required" : 1,
+        "questionareId" : "0deebc03-d677-4201-9e4a-a01849cd5dd9",
+        "subTitle" : "基本情况(由家长填写）"
+      },
+      {
+        "gender" : -1,
+        "cid" : "13",
+        "sequence" : 4,
+        "id" : 1874,
+        "questionareItemOptionsBeans" : [
+          {
+            "id" : 3325,
+            "optionName" : "A",
+            "optionContent" : "纯母乳喂养,喂养到第{0}月",
+            "questionareItemId" : 1874
+          },
+          {
+            "id" : 3326,
+            "optionName" : "B",
+            "optionContent" : "混合喂养（母乳+配方奶），母乳喂养到第{0}月",
+            "questionareItemId" : 1874
+          },
+          {
+            "id" : 3327,
+            "optionName" : "C",
+            "optionContent" : "人工喂养（配方奶）",
+            "questionareItemId" : 1874
+          }
+        ],
+        "title" : "您孩子在出生后6个月内是哪种喂养方式（母乳和\/或配方奶）？",
+        "questionareItemResponseBean" : [
+  
+        ],
+        "questionType" : 0,
+        "required" : 1,
+        "questionareId" : "0deebc03-d677-4201-9e4a-a01849cd5dd9",
+        "subTitle" : "基本情况(由家长填写）"
+      },
+      {
+        "gender" : -1,
+        "cid" : "14",
+        "sequence" : 5,
+        "id" : 1875,
+        "questionareItemOptionsBeans" : [
+          {
+            "id" : 3328,
+            "optionName" : "A",
+            "optionContent" : "自然分娩",
+            "questionareItemId" : 1875
+          },
+          {
+            "id" : 3329,
+            "optionName" : "B",
+            "optionContent" : "剖宫产",
+            "questionareItemId" : 1875
+          }
+        ],
+        "title" : "您孩子的分娩方式为",
+        "questionareItemResponseBean" : [
+  
+        ],
+        "questionType" : 0,
+        "required" : 1,
+        "questionareId" : "0deebc03-d677-4201-9e4a-a01849cd5dd9",
+        "subTitle" : "基本情况(由家长填写）"
+      },
+      {
+        "gender" : -1,
+        "cid" : "15",
+        "sequence" : 6,
+        "id" : 1876,
+        "questionareItemOptionsBeans" : [
+          {
+            "id" : 3330,
+            "optionName" : "A",
+            "optionContent" : "单胎",
+            "questionareItemId" : 1876
+          },
+          {
+            "id" : 3331,
+            "optionName" : "B",
+            "optionContent" : "双胎",
+            "questionareItemId" : 1876
+          },
+          {
+            "id" : 3332,
+            "optionName" : "C",
+            "optionContent" : "三胎或以上",
+            "questionareItemId" : 1876
+          }
+        ],
+        "title" : "您孩子出生时为",
+        "questionareItemResponseBean" : [
+  
+        ],
+        "questionType" : 0,
+        "required" : 1,
+        "questionareId" : "0deebc03-d677-4201-9e4a-a01849cd5dd9",
+        "subTitle" : "基本情况(由家长填写）"
+      },
+      {
+        "gender" : -1,
+        "cid" : "16,F16_2_1,F16_3_1",
+        "sequence" : 7,
+        "id" : 1877,
+        "questionareItemOptionsBeans" : [
+          {
+            "id" : 3333,
+            "optionName" : "A",
+            "optionContent" : "预产期当天出生",
+            "questionareItemId" : 1877
+          },
+          {
+            "id" : 3334,
+            "optionName" : "B",
+            "optionContent" : "超出预产期{0}周{0}天",
+            "questionareItemId" : 1877
+          },
+          {
+            "id" : 3335,
+            "optionName" : "C",
+            "optionContent" : "比预产期提前{0}周{0}天",
+            "questionareItemId" : 1877
+          }
+        ],
+        "title" : "您孩子比预产期超出或提前了多少天出生？",
+        "questionareItemResponseBean" : [
+  
+        ],
+        "questionType" : 0,
+        "required" : 1,
+        "questionareId" : "0deebc03-d677-4201-9e4a-a01849cd5dd9",
+        "subTitle" : "基本情况(由家长填写）"
+      },
+      {
+        "gender" : -1,
+        "cid" : "17",
+        "sequence" : 8,
+        "id" : 1878,
+        "questionareItemOptionsBeans" : [
+  
+        ],
+        "title" : "孩子母亲在怀孕期间有无以下病史：",
+        "questionareItemResponseBean" : [
+          {
+            "gender" : -1,
+            "cid" : "1706",
+            "sequence" : 8,
+            "id" : 1879,
+            "questionareItemOptionsBeans" : [
+              {
+                "id" : 3336,
+                "optionName" : "A",
+                "optionContent" : "有",
+                "questionareItemId" : 1879
+              },
+              {
+                "id" : 3337,
+                "optionName" : "B",
+                "optionContent" : "无",
+                "questionareItemId" : 1879
+              }
+            ],
+            "title" : "妊娠期贫血",
+            "questionareItemResponseBean" : null,
+            "questionType" : 0,
+            "required" : 1,
+            "questionareId" : "0deebc03-d677-4201-9e4a-a01849cd5dd9",
+            "subTitle" : "基本情况(由家长填写）"
+          },
+          {
+            "gender" : -1,
+            "cid" : "1707",
+            "sequence" : 8,
+            "id" : 1880,
+            "questionareItemOptionsBeans" : [
+              {
+                "id" : 3338,
+                "optionName" : "A",
+                "optionContent" : "有",
+                "questionareItemId" : 1880
+              },
+              {
+                "id" : 3339,
+                "optionName" : "B",
+                "optionContent" : "无",
+                "questionareItemId" : 1880
+              }
+            ],
+            "title" : "妊娠期病毒性肝炎",
+            "questionareItemResponseBean" : null,
+            "questionType" : 0,
+            "required" : 1,
+            "questionareId" : "0deebc03-d677-4201-9e4a-a01849cd5dd9",
+            "subTitle" : "基本情况(由家长填写）"
+          },
+          {
+            "gender" : -1,
+            "cid" : "1708",
+            "sequence" : 8,
+            "id" : 1881,
+            "questionareItemOptionsBeans" : [
+              {
+                "id" : 3340,
+                "optionName" : "A",
+                "optionContent" : "有",
+                "questionareItemId" : 1881
+              },
+              {
+                "id" : 3341,
+                "optionName" : "B",
+                "optionContent" : "无",
+                "questionareItemId" : 1881
+              }
+            ],
+            "title" : "其他疾病？",
+            "questionareItemResponseBean" : null,
+            "questionType" : 0,
+            "required" : 1,
+            "questionareId" : "0deebc03-d677-4201-9e4a-a01849cd5dd9",
+            "subTitle" : "基本情况(由家长填写）"
+          },
+          {
+            "gender" : -1,
+            "cid" : "1701",
+            "sequence" : 8,
+            "id" : 1882,
+            "questionareItemOptionsBeans" : [
+              {
+                "id" : 3342,
+                "optionName" : "A",
+                "optionContent" : "有",
+                "questionareItemId" : 1882
+              },
+              {
+                "id" : 3343,
+                "optionName" : "B",
+                "optionContent" : "无",
+                "questionareItemId" : 1882
+              }
+            ],
+            "title" : "妊娠期高血压",
+            "questionareItemResponseBean" : null,
+            "questionType" : 0,
+            "required" : 1,
+            "questionareId" : "0deebc03-d677-4201-9e4a-a01849cd5dd9",
+            "subTitle" : "基本情况(由家长填写）"
+          },
+          {
+            "gender" : -1,
+            "cid" : "1702",
+            "sequence" : 8,
+            "id" : 1883,
+            "questionareItemOptionsBeans" : [
+              {
+                "id" : 3344,
+                "optionName" : "A",
+                "optionContent" : "有",
+                "questionareItemId" : 1883
+              },
+              {
+                "id" : 3345,
+                "optionName" : "B",
+                "optionContent" : "无",
+                "questionareItemId" : 1883
+              }
+            ],
+            "title" : "妊娠期糖尿病",
+            "questionareItemResponseBean" : null,
+            "questionType" : 0,
+            "required" : 1,
+            "questionareId" : "0deebc03-d677-4201-9e4a-a01849cd5dd9",
+            "subTitle" : "基本情况(由家长填写）"
+          },
+          {
+            "gender" : -1,
+            "cid" : "1703",
+            "sequence" : 8,
+            "id" : 1884,
+            "questionareItemOptionsBeans" : [
+              {
+                "id" : 3346,
+                "optionName" : "A",
+                "optionContent" : "有",
+                "questionareItemId" : 1884
+              },
+              {
+                "id" : 3347,
+                "optionName" : "B",
+                "optionContent" : "无",
+                "questionareItemId" : 1884
+              }
+            ],
+            "title" : "妊娠期胆汁淤积症",
+            "questionareItemResponseBean" : null,
+            "questionType" : 0,
+            "required" : 1,
+            "questionareId" : "0deebc03-d677-4201-9e4a-a01849cd5dd9",
+            "subTitle" : "基本情况(由家长填写）"
+          },
+          {
+            "gender" : -1,
+            "cid" : "1704",
+            "sequence" : 8,
+            "id" : 1885,
+            "questionareItemOptionsBeans" : [
+              {
+                "id" : 3348,
+                "optionName" : "A",
+                "optionContent" : "有",
+                "questionareItemId" : 1885
+              },
+              {
+                "id" : 3349,
+                "optionName" : "B",
+                "optionContent" : "无",
+                "questionareItemId" : 1885
+              }
+            ],
+            "title" : "妊娠期甲状腺功能减退",
+            "questionareItemResponseBean" : null,
+            "questionType" : 0,
+            "required" : 1,
+            "questionareId" : "0deebc03-d677-4201-9e4a-a01849cd5dd9",
+            "subTitle" : "基本情况(由家长填写）"
+          },
+          {
+            "gender" : -1,
+            "cid" : "1705",
+            "sequence" : 8,
+            "id" : 1886,
+            "questionareItemOptionsBeans" : [
+              {
+                "id" : 3350,
+                "optionName" : "A",
+                "optionContent" : "有",
+                "questionareItemId" : 1886
+              },
+              {
+                "id" : 3351,
+                "optionName" : "B",
+                "optionContent" : "无",
+                "questionareItemId" : 1886
+              }
+            ],
+            "title" : "妊娠期甲状腺功能亢进",
+            "questionareItemResponseBean" : null,
+            "questionType" : 0,
+            "required" : 1,
+            "questionareId" : "0deebc03-d677-4201-9e4a-a01849cd5dd9",
+            "subTitle" : "基本情况(由家长填写）"
+          }
+        ],
+        "questionType" : 4,
+        "required" : 1,
+        "questionareId" : "0deebc03-d677-4201-9e4a-a01849cd5dd9",
+        "subTitle" : "基本情况(由家长填写）"
+      },
+      {
+        "gender" : -1,
+        "cid" : "18,F18_2_1",
+        "sequence" : 9,
+        "id" : 1887,
+        "questionareItemOptionsBeans" : [
+          {
+            "id" : 3352,
+            "optionName" : "A",
+            "optionContent" : "是",
+            "questionareItemId" : 1887
+          },
+          {
+            "id" : 3353,
+            "optionName" : "B",
+            "optionContent" : "否（如果否，还有{0}个兄弟姐妹）",
+            "questionareItemId" : 1887
+          }
+        ],
+        "title" : "您孩子是独生子女吗？",
+        "questionareItemResponseBean" : [
+  
+        ],
+        "questionType" : 0,
+        "required" : 1,
+        "questionareId" : "0deebc03-d677-4201-9e4a-a01849cd5dd9",
+        "subTitle" : "基本情况(由家长填写）"
+      },
+      {
+        "gender" : -1,
+        "cid" : "1901",
+        "sequence" : 10,
+        "id" : 1888,
+        "questionareItemOptionsBeans" : [
+          {
+            "id" : 3354,
+            "optionName" : "A",
+            "optionContent" : "未上过学",
+            "questionareItemId" : 1888
+          },
+          {
+            "id" : 3355,
+            "optionName" : "B",
+            "optionContent" : "小学",
+            "questionareItemId" : 1888
+          },
+          {
+            "id" : 3356,
+            "optionName" : "C",
+            "optionContent" : "初中",
+            "questionareItemId" : 1888
+          },
+          {
+            "id" : 3357,
+            "optionName" : "D",
+            "optionContent" : "高中\/中专",
+            "questionareItemId" : 1888
+          },
+          {
+            "id" : 3358,
+            "optionName" : "E",
+            "optionContent" : "大专\/职大",
+            "questionareItemId" : 1888
+          },
+          {
+            "id" : 3359,
+            "optionName" : "F",
+            "optionContent" : "大学本科及以上",
+            "questionareItemId" : 1888
+          }
+        ],
+        "title" : "孩子父亲的文化程度是",
+        "questionareItemResponseBean" : [
+          {
+            "gender" : -1,
+            "cid" : "1902",
+            "sequence" : 10,
+            "id" : 1889,
+            "questionareItemOptionsBeans" : [
+              {
+                "id" : 3360,
+                "optionName" : "A",
+                "optionContent" : "未上过学",
+                "questionareItemId" : 1889
+  
+              },
+              {
+                "id" : 3361,
+                "optionName" : "B",
+                "optionContent" : "小学",
+                "questionareItemId" : 1889
+              },
+              {
+                "id" : 3362,
+                "optionName" : "C",
+                "optionContent" : "初中",
+                "questionareItemId" : 1889
+              },
+              {
+                "id" : 3363,
+                "optionName" : "D",
+                "optionContent" : "高中\/中专",
+                "questionareItemId" : 1889
+              },
+              {
+                "id" : 3364,
+                "optionName" : "E",
+                "optionContent" : "大专\/职大",
+                "questionareItemId" : 1889
+              },
+              {
+                "id" : 3365,
+                "optionName" : "F",
+                "optionContent" : "大学本科及以上",
+                "questionareItemId" : 1889
+              }
+            ],
+            "title" : "孩子母亲的文化程度是",
+            "questionareItemResponseBean" : null,
+            "questionType" : 0,
+            "required" : 1,
+            "questionareId" : "0deebc03-d677-4201-9e4a-a01849cd5dd9",
+            "subTitle" : "基本情况(由家长填写）"
+          }
+        ],
+        "questionType" : 0,
+        "required" : 1,
+        "questionareId" : "0deebc03-d677-4201-9e4a-a01849cd5dd9",
+        "subTitle" : "基本情况(由家长填写）"
+      },
+      {
+        "gender" : -1,
+        "cid" : "20",
+        "sequence" : 11,
+        "id" : 1890,
+        "questionareItemOptionsBeans" : [
+          {
+            "id" : 3366,
+            "optionName" : "A",
+            "optionContent" : "是",
+            "questionareItemId" : 1890
+          },
+          {
+            "id" : 3367,
+            "optionName" : "B",
+            "optionContent" : "否",
+            "questionareItemId" : 1890
+          },
+          {
+            "id" : 3368,
+            "optionName" : "C",
+            "optionContent" : "不知道",
+            "questionareItemId" : 1890
+          }
+        ],
+        "title" : "孩子父亲是否近视?",
+        "questionareItemResponseBean" : [
+          {
+            "gender" : -1,
+            "cid" : "20,F20_1_1",
+            "sequence" : 11,
+            "id" : 1891,
+            "questionareItemOptionsBeans" : [
+              {
+                "id" : 3508,
+                "optionName" : "A",
+                "optionContent" : "＜300度",
+                "questionareItemId" : 1891
+              },
+              {
+                "id" : 3509,
+                "optionName" : "B",
+                "optionContent" : "300～600度",
+                "questionareItemId" : 1891
+              },
+              {
+                "id" : 3510,
+                "optionName" : "C",
+                "optionContent" : "＞600度",
+                "questionareItemId" : 1891
+              },
+              {
+                "id" : 3511,
+                "optionName" : "D",
+                "optionContent" : "不知道",
+                "questionareItemId" : 1891
+              }
+            ],
+            "title" : "孩子父亲如果近视，目前左眼视力 [1]＜300度 [2]300～600度 [3]＞600度 [4]不知道 ({0})",
+            "questionareItemResponseBean" : null,
+            "questionType" : 2,
+            "required" : 0,
+            "questionareId" : "0deebc03-d677-4201-9e4a-a01849cd5dd9",
+            "subTitle" : "基本情况(由家长填写）"
+          },
+          {
+            "gender" : -1,
+            "cid" : "20,F20_1_2",
+            "sequence" : 11,
+            "id" : 1892,
+            "questionareItemOptionsBeans" : [
+              {
+                "id" : 3512,
+                "optionName" : "A",
+                "optionContent" : "＜300度",
+                "questionareItemId" : 1892
+              },
+              {
+                "id" : 3513,
+                "optionName" : "B",
+                "optionContent" : "300～600度",
+                "questionareItemId" : 1892
+              },
+              {
+                "id" : 3514,
+                "optionName" : "C",
+                "optionContent" : "＞600度",
+                "questionareItemId" : 1892
+              },
+              {
+                "id" : 3515,
+                "optionName" : "D",
+                "optionContent" : "不知道",
+                "questionareItemId" : 1892
+              }
+            ],
+            "title" : "孩子父亲如果近视，目前右眼视力 [1]＜300度 [2]300～600度 [3]＞600度 [4]不知道 ({0})",
+            "questionareItemResponseBean" : null,
+            "questionType" : 2,
+            "required" : 0,
+            "questionareId" : "0deebc03-d677-4201-9e4a-a01849cd5dd9",
+            "subTitle" : "基本情况(由家长填写）"
+          }
+        ],
+        "questionType" : 0,
+        "required" : 1,
+        "questionareId" : "0deebc03-d677-4201-9e4a-a01849cd5dd9",
+        "subTitle" : "基本情况(由家长填写）"
+      },
+      {
+        "gender" : -1,
+        "cid" : "21",
+        "sequence" : 12,
+        "id" : 1893,
+        "questionareItemOptionsBeans" : [
+          {
+            "id" : 3369,
+            "optionName" : "A",
+            "optionContent" : "是",
+            "questionareItemId" : 1893
+          },
+          {
+            "id" : 3370,
+            "optionName" : "B",
+            "optionContent" : "否",
+            "questionareItemId" : 1893
+          },
+          {
+            "id" : 3371,
+            "optionName" : "C",
+            "optionContent" : "不知道",
+            "questionareItemId" : 1893
+          }
+        ],
+        "title" : "孩子母亲是否近视",
+        "questionareItemResponseBean" : [
+          {
+            "gender" : -1,
+            "cid" : "21,F21_1_1",
+            "sequence" : 12,
+            "id" : 1894,
+            "questionareItemOptionsBeans" : [
+              {
+                "id" : 3372,
+                "optionName" : "A",
+                "optionContent" : "＜300度",
+                "questionareItemId" : 1894
+              },
+              {
+                "id" : 3373,
+                "optionName" : "B",
+                "optionContent" : "300～600度",
+                "questionareItemId" : 1894
+              },
+              {
+                "id" : 3374,
+                "optionName" : "C",
+                "optionContent" : "＞600度",
+                "questionareItemId" : 1894
+              },
+              {
+                "id" : 3375,
+                "optionName" : "D",
+                "optionContent" : "不知道",
+                "questionareItemId" : 1894
+              }
+            ],
+            "title" : "孩子母亲如果近视，目前左眼视力 [1]＜300度 [2]300～600度 [3]＞600度 [4]不知道 ({0})",
+            "questionareItemResponseBean" : null,
+            "questionType" : 2,
+            "required" : 0,
+            "questionareId" : "0deebc03-d677-4201-9e4a-a01849cd5dd9",
+            "subTitle" : "基本情况(由家长填写）"
+          },
+          {
+            "gender" : -1,
+            "cid" : "21,F21_1_2",
+            "sequence" : 12,
+            "id" : 1895,
+            "questionareItemOptionsBeans" : [
+              {
+                "id" : 3376,
+                "optionName" : "A",
+                "optionContent" : "＜300度",
+                "questionareItemId" : 1895
+              },
+              {
+                "id" : 3377,
+                "optionName" : "B",
+                "optionContent" : "300～600度",
+                "questionareItemId" : 1895
+              },
+              {
+                "id" : 3378,
+                "optionName" : "C",
+                "optionContent" : "＞600度",
+                "questionareItemId" : 1895
+              },
+              {
+                "id" : 3379,
+                "optionName" : "D",
+                "optionContent" : "不知道",
+                "questionareItemId" : 1895
+              }
+            ],
+            "title" : "孩子母亲如果近视，目前右眼视力 [1]＜300度 [2]300～600度 [3]＞600度 [4]不知道 ({0})",
+            "questionareItemResponseBean" : null,
+            "questionType" : 2,
+            "required" : 0,
+            "questionareId" : "0deebc03-d677-4201-9e4a-a01849cd5dd9",
+            "subTitle" : "基本情况(由家长填写）"
+          }
+        ],
+        "questionType" : 0,
+        "required" : 1,
+        "questionareId" : "0deebc03-d677-4201-9e4a-a01849cd5dd9",
+        "subTitle" : "基本情况(由家长填写）"
+      },
+      {
+        "gender" : -1,
+        "cid" : "2201",
+        "sequence" : 13,
+        "id" : 1896,
+        "questionareItemOptionsBeans" : [
+          {
+            "id" : 3380,
+            "optionName" : "A",
+            "optionContent" : "从不吸烟",
+            "questionareItemId" : 1896
+          },
+          {
+            "id" : 3381,
+            "optionName" : "B",
+            "optionContent" : "已戒烟一年以上",
+            "questionareItemId" : 1896
+          },
+          {
+            "id" : 3382,
+            "optionName" : "C",
+            "optionContent" : "戒烟未满一年",
+            "questionareItemId" : 1896
+          },
+          {
+            "id" : 3383,
+            "optionName" : "D",
+            "optionContent" : "正在吸烟",
+            "questionareItemId" : 1896
+          }
+        ],
+        "title" : "孩子父亲是否吸烟",
+        "questionareItemResponseBean" : [
+          {
+            "gender" : -1,
+            "cid" : "2202",
+            "sequence" : 13,
+            "id" : 1897,
+            "questionareItemOptionsBeans" : [
+              {
+                "id" : 3384,
+                "optionName" : "A",
+                "optionContent" : "从不吸烟",
+                "questionareItemId" : 1897
+              },
+              {
+                "id" : 3385,
+                "optionName" : "B",
+                "optionContent" : "已戒烟一年以上",
+                "questionareItemId" : 1897
+              },
+              {
+                "id" : 3386,
+                "optionName" : "C",
+                "optionContent" : "戒烟未满一年",
+                "questionareItemId" : 1897
+              },
+              {
+                "id" : 3387,
+                "optionName" : "D",
+                "optionContent" : "正在吸烟",
+                "questionareItemId" : 1897
+              }
+            ],
+            "title" : "孩子母亲是否吸烟",
+            "questionareItemResponseBean" : null,
+            "questionType" : 0,
+            "required" : 1,
+            "questionareId" : "0deebc03-d677-4201-9e4a-a01849cd5dd9",
+            "subTitle" : "基本情况(由家长填写）"
+          }
+        ],
+        "questionType" : 0,
+        "required" : 1,
+        "questionareId" : "0deebc03-d677-4201-9e4a-a01849cd5dd9",
+        "subTitle" : "基本情况(由家长填写）"
+      },
+      {
+        "gender" : -1,
+        "cid" : "23",
+        "sequence" : 14,
+        "id" : 1898,
+        "questionareItemOptionsBeans" : [
+          {
+            "id" : 3388,
+            "optionName" : "A",
+            "optionContent" : "2000元或以下",
+            "questionareItemId" : 1898
+          },
+          {
+            "id" : 3389,
+            "optionName" : "B",
+            "optionContent" : "2000-5000元以下",
+            "questionareItemId" : 1898
+          },
+          {
+            "id" : 3390,
+            "optionName" : "C",
+            "optionContent" : "5000-8000元以下",
+            "questionareItemId" : 1898
+          },
+          {
+            "id" : 3391,
+            "optionName" : "D",
+            "optionContent" : "8000-12000元以下",
+            "questionareItemId" : 1898
+          },
+          {
+            "id" : 3392,
+            "optionName" : "E",
+            "optionContent" : "12000-15000元以下",
+            "questionareItemId" : 1898
+          },
+          {
+            "id" : 3393,
+            "optionName" : "F",
+            "optionContent" : "15000元或以上",
+            "questionareItemId" : 1898
+          },
+          {
+            "id" : 3394,
+            "optionName" : "G",
+            "optionContent" : "不清楚",
+            "questionareItemId" : 1898
+          }
+        ],
+        "title" : "您家人均月收入是多少元？（注：人均月收入=家庭月总收入÷家庭人口数）",
+        "questionareItemResponseBean" : [
+  
+        ],
+        "questionType" : 0,
+        "required" : 1,
+        "questionareId" : "0deebc03-d677-4201-9e4a-a01849cd5dd9",
+        "subTitle" : "基本情况(由家长填写）"
+      },
+      {
+        "gender" : -1,
+        "cid" : "24",
+        "sequence" : 15,
+        "id" : 1899,
+        "questionareItemOptionsBeans" : [
+  
+        ],
+        "title" : "您孩子有被医生诊断患有以下疾病吗？",
+        "questionareItemResponseBean" : [
+          {
+            "gender" : -1,
+            "cid" : "2401",
+            "sequence" : 15,
+            "id" : 1900,
+            "questionareItemOptionsBeans" : [
+              {
+                "id" : 3395,
+                "optionName" : "A",
+                "optionContent" : "有",
+                "questionareItemId" : 1900
+              },
+              {
+                "id" : 3396,
+                "optionName" : "B",
+                "optionContent" : "无",
+                "questionareItemId" : 1900
+              }
+            ],
+            "title" : "肥胖",
+            "questionareItemResponseBean" : null,
+            "questionType" : 0,
+            "required" : 1,
+            "questionareId" : "0deebc03-d677-4201-9e4a-a01849cd5dd9",
+            "subTitle" : "基本情况(由家长填写）"
+          },
+          {
+            "gender" : -1,
+            "cid" : "2402",
+            "sequence" : 15,
+            "id" : 1901,
+            "questionareItemOptionsBeans" : [
+              {
+                "id" : 3397,
+                "optionName" : "A",
+                "optionContent" : "有",
+                "questionareItemId" : 1901
+              },
+              {
+                "id" : 3398,
+                "optionName" : "B",
+                "optionContent" : "无",
+                "questionareItemId" : 1901
+              }
+            ],
+            "title" : "高血压",
+            "questionareItemResponseBean" : null,
+            "questionType" : 0,
+            "required" : 1,
+            "questionareId" : "0deebc03-d677-4201-9e4a-a01849cd5dd9",
+            "subTitle" : "基本情况(由家长填写）"
+          },
+          {
+            "gender" : -1,
+            "cid" : "2403",
+            "sequence" : 15,
+            "id" : 1902,
+            "questionareItemOptionsBeans" : [
+              {
+                "id" : 3399,
+                "optionName" : "A",
+                "optionContent" : "有",
+                "questionareItemId" : 1902
+              },
+              {
+                "id" : 3400,
+                "optionName" : "B",
+                "optionContent" : "无",
+                "questionareItemId" : 1902
+              }
+            ],
+            "title" : "血脂异常",
+            "questionareItemResponseBean" : null,
+            "questionType" : 0,
+            "required" : 1,
+            "questionareId" : "0deebc03-d677-4201-9e4a-a01849cd5dd9",
+            "subTitle" : "基本情况(由家长填写）"
+          },
+          {
+            "gender" : -1,
+            "cid" : "2404",
+            "sequence" : 15,
+            "id" : 1903,
+            "questionareItemOptionsBeans" : [
+              {
+                "id" : 3401,
+                "optionName" : "A",
+                "optionContent" : "有",
+                "questionareItemId" : 1903
+              },
+              {
+                "id" : 3402,
+                "optionName" : "B",
+                "optionContent" : "无",
+                "questionareItemId" : 1903
+              }
+            ],
+            "title" : "糖尿病",
+            "questionareItemResponseBean" : null,
+            "questionType" : 0,
+            "required" : 1,
+            "questionareId" : "0deebc03-d677-4201-9e4a-a01849cd5dd9",
+            "subTitle" : "基本情况(由家长填写）"
+          },
+          {
+            "gender" : -1,
+            "cid" : "240401",
+            "sequence" : 15,
+            "id" : 1904,
+            "questionareItemOptionsBeans" : [
+              {
+                "id" : 3403,
+                "optionName" : "A",
+                "optionContent" : "Ⅰ型",
+                "questionareItemId" : 1904
+              },
+              {
+                "id" : 3404,
+                "optionName" : "B",
+                "optionContent" : "Ⅱ型",
+                "questionareItemId" : 1904
+              },
+              {
+                "id" : 3405,
+                "optionName" : "C",
+                "optionContent" : "其他",
+                "questionareItemId" : 1904
+              }
+            ],
+            "title" : "若有，糖尿病类型为",
+            "questionareItemResponseBean" : null,
+            "questionType" : 0,
+            "required" : 1,
+            "questionareId" : "0deebc03-d677-4201-9e4a-a01849cd5dd9",
+            "subTitle" : "基本情况(由家长填写）"
+          }
+        ],
+        "questionType" : 4,
+        "required" : 1,
+        "questionareId" : "0deebc03-d677-4201-9e4a-a01849cd5dd9",
+        "subTitle" : "基本情况(由家长填写）"
+      },
+      {
+        "gender" : -1,
+        "cid" : "2405",
+        "sequence" : 16,
+        "id" : 1905,
+        "questionareItemOptionsBeans" : [
+  
+        ],
+        "title" : "您孩子有被医生诊断患有以下过敏性疾病吗？ ",
+        "questionareItemResponseBean" : [
+          {
+            "gender" : -1,
+            "cid" : "240501,F240501_1",
+            "sequence" : 16,
+            "id" : 1906,
+            "questionareItemOptionsBeans" : [
+              {
+                "id" : 3406,
+                "optionName" : "A",
+                "optionContent" : "是：首次患病年龄{0}周岁",
+                "questionareItemId" : 1906
+              },
+              {
+                "id" : 3407,
+                "optionName" : "B",
+                "optionContent" : "否",
+                "questionareItemId" : 1906
+              }
+            ],
+            "title" : "哮喘",
+            "questionareItemResponseBean" : null,
+            "questionType" : 0,
+            "required" : 1,
+            "questionareId" : "0deebc03-d677-4201-9e4a-a01849cd5dd9",
+            "subTitle" : "基本情况(由家长填写）"
+          },
+          {
+            "gender" : -1,
+            "cid" : "240503,F240503_1",
+            "sequence" : 16,
+            "id" : 1907,
+            "questionareItemOptionsBeans" : [
+              {
+                "id" : 3408,
+                "optionName" : "A",
+                "optionContent" : "是：首次患病年龄{0}周岁",
+                "questionareItemId" : 1907
+              },
+              {
+                "id" : 3409,
+                "optionName" : "B",
+                "optionContent" : "否",
+                "questionareItemId" : 1907
+              }
+            ],
+            "title" : "过敏性皮炎",
+            "questionareItemResponseBean" : null,
+            "questionType" : 0,
+            "required" : 1,
+            "questionareId" : "0deebc03-d677-4201-9e4a-a01849cd5dd9",
+            "subTitle" : "基本情况(由家长填写）"
+          },
+          {
+            "gender" : -1,
+            "cid" : "240505,F240505_1",
+            "sequence" : 16,
+            "id" : 1908,
+            "questionareItemOptionsBeans" : [
+              {
+                "id" : 3410,
+                "optionName" : "A",
+                "optionContent" : "是：首次患病年龄{0}周岁",
+                "questionareItemId" : 1908
+              },
+              {
+                "id" : 3411,
+                "optionName" : "B",
+                "optionContent" : "否",
+                "questionareItemId" : 1908
+              }
+            ],
+            "title" : "过敏性鼻炎",
+            "questionareItemResponseBean" : null,
+            "questionType" : 0,
+            "required" : 1,
+            "questionareId" : "0deebc03-d677-4201-9e4a-a01849cd5dd9",
+            "subTitle" : "基本情况(由家长填写）"
+          },
+          {
+            "gender" : -1,
+            "cid" : "240502,F240502_1",
+            "sequence" : 16,
+            "id" : 1909,
+            "questionareItemOptionsBeans" : [
+              {
+                "id" : 3412,
+                "optionName" : "A",
+                "optionContent" : "是：首次患病年龄{0}周岁",
+                "questionareItemId" : 1909
+              },
+              {
+                "id" : 3413,
+                "optionName" : "B",
+                "optionContent" : "否",
+                "questionareItemId" : 1909
+              }
+            ],
+            "title" : "湿疹",
+            "questionareItemResponseBean" : null,
+            "questionType" : 0,
+            "required" : 1,
+            "questionareId" : "0deebc03-d677-4201-9e4a-a01849cd5dd9",
+            "subTitle" : "基本情况(由家长填写）"
+          },
+          {
+            "gender" : -1,
+            "cid" : "240504,F240504_1",
+            "sequence" : 16,
+            "id" : 1910,
+            "questionareItemOptionsBeans" : [
+              {
+                "id" : 3414,
+                "optionName" : "A",
+                "optionContent" : "是：首次患病年龄{0}周岁",
+                "questionareItemId" : 1910
+              },
+              {
+                "id" : 3415,
+                "optionName" : "B",
+                "optionContent" : "否",
+                "questionareItemId" : 1910
+              }
+            ],
+            "title" : "荨麻疹",
+            "questionareItemResponseBean" : null,
+            "questionType" : 0,
+            "required" : 1,
+            "questionareId" : "0deebc03-d677-4201-9e4a-a01849cd5dd9",
+            "subTitle" : "基本情况(由家长填写）"
+          },
+          {
+            "gender" : -1,
+            "cid" : "240506,F240506_1",
+            "sequence" : 16,
+            "id" : 1911,
+            "questionareItemOptionsBeans" : [
+              {
+                "id" : 3416,
+                "optionName" : "A",
+                "optionContent" : "是：首次患病年龄{0}周岁",
+                "questionareItemId" : 1911
+              },
+              {
+                "id" : 3417,
+                "optionName" : "B",
+                "optionContent" : "否",
+                "questionareItemId" : 1911
+              }
+            ],
+            "title" : "其他",
+            "questionareItemResponseBean" : null,
+            "questionType" : 0,
+            "required" : 1,
+            "questionareId" : "0deebc03-d677-4201-9e4a-a01849cd5dd9",
+            "subTitle" : "基本情况(由家长填写）"
+          }
+        ],
+        "questionType" : 4,
+        "required" : 1,
+        "questionareId" : "0deebc03-d677-4201-9e4a-a01849cd5dd9",
+        "subTitle" : "基本情况(由家长填写）"
+      },
+      {
+        "gender" : -1,
+        "cid" : "25",
+        "sequence" : 17,
+        "id" : 1912,
+        "questionareItemOptionsBeans" : [
+  
+        ],
+        "title" : "您孩子的父母、兄弟姐妹、祖父母、外祖父母、叔\/舅\/姑\/姨有被医生诊断患有以下疾病吗？",
+        "questionareItemResponseBean" : [
+          {
+            "gender" : -1,
+            "cid" : "2501",
+            "sequence" : 17,
+            "id" : 1913,
+            "questionareItemOptionsBeans" : [
+              {
+                "id" : 3418,
+                "optionName" : "A",
+                "optionContent" : "有",
+                "questionareItemId" : 1913
+              },
+              {
+                "id" : 3419,
+                "optionName" : "B",
+                "optionContent" : "无",
+                "questionareItemId" : 1913
+              }
+            ],
+            "title" : "肥胖",
+            "questionareItemResponseBean" : null,
+            "questionType" : 0,
+            "required" : 1,
+            "questionareId" : "0deebc03-d677-4201-9e4a-a01849cd5dd9",
+            "subTitle" : "基本情况(由家长填写）"
+          },
+          {
+            "gender" : -1,
+            "cid" : "2502",
+            "sequence" : 17,
+            "id" : 1914,
+            "questionareItemOptionsBeans" : [
+              {
+                "id" : 3420,
+                "optionName" : "A",
+                "optionContent" : "有",
+                "questionareItemId" : 1914
+              },
+              {
+                "id" : 3421,
+                "optionName" : "B",
+                "optionContent" : "无",
+                "questionareItemId" : 1914
+              }
+            ],
+            "title" : "高血压",
+            "questionareItemResponseBean" : null,
+            "questionType" : 0,
+            "required" : 1,
+            "questionareId" : "0deebc03-d677-4201-9e4a-a01849cd5dd9",
+            "subTitle" : "基本情况(由家长填写）"
+          },
+          {
+            "gender" : -1,
+            "cid" : "2503",
+            "sequence" : 17,
+            "id" : 1915,
+            "questionareItemOptionsBeans" : [
+              {
+                "id" : 3422,
+                "optionName" : "A",
+                "optionContent" : "有",
+                "questionareItemId" : 1915
+              },
+              {
+                "id" : 3423,
+                "optionName" : "B",
+                "optionContent" : "无",
+                "questionareItemId" : 1915
+              }
+            ],
+            "title" : "糖尿病",
+            "questionareItemResponseBean" : null,
+            "questionType" : 0,
+            "required" : 1,
+            "questionareId" : "0deebc03-d677-4201-9e4a-a01849cd5dd9",
+            "subTitle" : "基本情况(由家长填写）"
+          },
+          {
+            "gender" : -1,
+            "cid" : "2504",
+            "sequence" : 17,
+            "id" : 1916,
+            "questionareItemOptionsBeans" : [
+              {
+                "id" : 3424,
+                "optionName" : "A",
+                "optionContent" : "有",
+                "questionareItemId" : 1916
+              },
+              {
+                "id" : 3425,
+                "optionName" : "B",
+                "optionContent" : "无",
+                "questionareItemId" : 1916
+              }
+            ],
+            "title" : "心脏病（如冠心病、心肌梗塞等）",
+            "questionareItemResponseBean" : null,
+            "questionType" : 0,
+            "required" : 1,
+            "questionareId" : "0deebc03-d677-4201-9e4a-a01849cd5dd9",
+            "subTitle" : "基本情况(由家长填写）"
+          },
+          {
+            "gender" : -1,
+            "cid" : "2505",
+            "sequence" : 17,
+            "id" : 1917,
+            "questionareItemOptionsBeans" : [
+              {
+                "id" : 3426,
+                "optionName" : "A",
+                "optionContent" : "有",
+                "questionareItemId" : 1917
+              },
+              {
+                "id" : 3427,
+                "optionName" : "B",
+                "optionContent" : "无",
+                "questionareItemId" : 1917
+              }
+            ],
+            "title" : "脑血管病（如脑血栓、脑卒中等）",
+            "questionareItemResponseBean" : null,
+            "questionType" : 0,
+            "required" : 1,
+            "questionareId" : "0deebc03-d677-4201-9e4a-a01849cd5dd9",
+            "subTitle" : "基本情况(由家长填写）"
+          }
+        ],
+        "questionType" : 4,
+        "required" : 1,
+        "questionareId" : "0deebc03-d677-4201-9e4a-a01849cd5dd9",
+        "subTitle" : "基本情况(由家长填写）"
+      },
+      {
+        "gender" : -1,
+        "cid" : "26",
+        "sequence" : 18,
+        "id" : 1918,
+        "questionareItemOptionsBeans" : [
+          {
+            "id" : 3428,
+            "optionName" : "A",
+            "optionContent" : "没有",
+            "questionareItemId" : 1918
+          },
+          {
+            "id" : 3429,
+            "optionName" : "B",
+            "optionContent" : "轻微",
+            "questionareItemId" : 1918
+          },
+          {
+            "id" : 3430,
+            "optionName" : "C",
+            "optionContent" : "一般",
+            "questionareItemId" : 1918
+          },
+          {
+            "id" : 3431,
+            "optionName" : "D",
+            "optionContent" : "较重",
+            "questionareItemId" : 1918
+          },
+          {
+            "id" : 3432,
+            "optionName" : "E",
+            "optionContent" : "很严重",
+            "questionareItemId" : 1918
+          }
+        ],
+        "title" : "与同龄孩子比，你是否觉得自己的孩子存在多动、冲动、注意力不集中的情况?",
+        "questionareItemResponseBean" : [
+  
+        ],
+        "questionType" : 0,
+        "required" : 1,
+        "questionareId" : "0deebc03-d677-4201-9e4a-a01849cd5dd9",
+        "subTitle" : "心理行为（由家长填写）"
+      },
+      {
+        "gender" : -1,
+        "cid" : "27",
+        "sequence" : 19,
+        "id" : 1919,
+        "questionareItemOptionsBeans" : [
+          {
+            "id" : 3433,
+            "optionName" : "A",
+            "optionContent" : "很好",
+            "questionareItemId" : 1919
+          },
+          {
+            "id" : 3434,
+            "optionName" : "B",
+            "optionContent" : "较好",
+            "questionareItemId" : 1919
+          },
+          {
+            "id" : 3435,
+            "optionName" : "C",
+            "optionContent" : "一般",
+            "questionareItemId" : 1919
+          },
+          {
+            "id" : 3436,
+            "optionName" : "D",
+            "optionContent" : "较差",
+            "questionareItemId" : 1919
+          },
+          {
+            "id" : 3437,
+            "optionName" : "E",
+            "optionContent" : "很差",
+            "questionareItemId" : 1919
+          }
+        ],
+        "title" : "与同龄孩子比，你如何评价自己孩子的人际交往能力?",
+        "questionareItemResponseBean" : [
+  
+        ],
+        "questionType" : 0,
+        "required" : 1,
+        "questionareId" : "0deebc03-d677-4201-9e4a-a01849cd5dd9",
+        "subTitle" : "心理行为（由家长填写）"
+      },
+      {
+        "gender" : -1,
+        "cid" : "28",
+        "sequence" : 20,
+        "id" : 1920,
+        "questionareItemOptionsBeans" : [
+          {
+            "id" : 3438,
+            "optionName" : "A",
+            "optionContent" : "很好",
+            "questionareItemId" : 1920
+          },
+          {
+            "id" : 3439,
+            "optionName" : "B",
+            "optionContent" : "较好",
+            "questionareItemId" : 1920
+          },
+          {
+            "id" : 3440,
+            "optionName" : "C",
+            "optionContent" : "一般",
+            "questionareItemId" : 1920
+          },
+          {
+            "id" : 3441,
+            "optionName" : "D",
+            "optionContent" : "较差",
+            "questionareItemId" : 1920
+          },
+          {
+            "id" : 3442,
+            "optionName" : "E",
+            "optionContent" : "很差",
+            "questionareItemId" : 1920
+          }
+        ],
+        "title" : "与同龄孩子比，你孩子的情绪控制能力?",
+        "questionareItemResponseBean" : [
+  
+        ],
+        "questionType" : 0,
+        "required" : 1,
+        "questionareId" : "0deebc03-d677-4201-9e4a-a01849cd5dd9",
+        "subTitle" : "心理行为（由家长填写）"
+      },
+      {
+        "gender" : -1,
+        "cid" : "29",
+        "sequence" : 21,
+        "id" : 1921,
+        "questionareItemOptionsBeans" : [
+  
+        ],
+        "title" : "你觉得你的孩子存在以下情绪问题吗？",
+        "questionareItemResponseBean" : [
+          {
+            "gender" : -1,
+            "cid" : "2901",
+            "sequence" : 21,
+            "id" : 1922,
+            "questionareItemOptionsBeans" : [
+              {
+                "id" : 3443,
+                "optionName" : "A",
+                "optionContent" : "没有",
+                "questionareItemId" : 1922
+              },
+              {
+                "id" : 3444,
+                "optionName" : "B",
+                "optionContent" : "轻微",
+                "questionareItemId" : 1922
+              },
+              {
+                "id" : 3445,
+                "optionName" : "C",
+                "optionContent" : "一般",
+                "questionareItemId" : 1922
+              },
+              {
+                "id" : 3446,
+                "optionName" : "D",
+                "optionContent" : "较重",
+                "questionareItemId" : 1922
+              },
+              {
+                "id" : 3447,
+                "optionName" : "E",
+                "optionContent" : "很严重",
+                "questionareItemId" : 1922
+              }
+            ],
+            "title" : "焦虑",
+            "questionareItemResponseBean" : null,
+            "questionType" : 0,
+            "required" : 1,
+            "questionareId" : "0deebc03-d677-4201-9e4a-a01849cd5dd9",
+            "subTitle" : "心理行为（由家长填写）"
+          },
+          {
+            "gender" : -1,
+            "cid" : "2902",
+            "sequence" : 21,
+            "id" : 1923,
+            "questionareItemOptionsBeans" : [
+              {
+                "id" : 3448,
+                "optionName" : "A",
+                "optionContent" : "没有",
+                "questionareItemId" : 1923
+              },
+              {
+                "id" : 3449,
+                "optionName" : "B",
+                "optionContent" : "轻微",
+                "questionareItemId" : 1923
+              },
+              {
+                "id" : 3450,
+                "optionName" : "C",
+                "optionContent" : "一般",
+                "questionareItemId" : 1923
+              },
+              {
+                "id" : 3451,
+                "optionName" : "D",
+                "optionContent" : "较重",
+                "questionareItemId" : 1923
+              },
+              {
+                "id" : 3452,
+                "optionName" : "E",
+                "optionContent" : "很严重",
+                "questionareItemId" : 1923
+              }
+            ],
+            "title" : "抑郁",
+            "questionareItemResponseBean" : null,
+            "questionType" : 0,
+            "required" : 1,
+            "questionareId" : "0deebc03-d677-4201-9e4a-a01849cd5dd9",
+            "subTitle" : "心理行为（由家长填写）"
+          },
+          {
+            "gender" : -1,
+            "cid" : "2903",
+            "sequence" : 21,
+            "id" : 1924,
+            "questionareItemOptionsBeans" : [
+              {
+                "id" : 3453,
+                "optionName" : "A",
+                "optionContent" : "没有",
+                "questionareItemId" : 1924
+              },
+              {
+                "id" : 3454,
+                "optionName" : "B",
+                "optionContent" : "轻微",
+                "questionareItemId" : 1924
+              },
+              {
+                "id" : 3455,
+                "optionName" : "C",
+                "optionContent" : "一般",
+                "questionareItemId" : 1924
+              },
+              {
+                "id" : 3456,
+                "optionName" : "D",
+                "optionContent" : "较重",
+                "questionareItemId" : 1924
+              },
+              {
+                "id" : 3457,
+                "optionName" : "E",
+                "optionContent" : "很严重",
+                "questionareItemId" : 1924
+              }
+            ],
+            "title" : "强迫",
+            "questionareItemResponseBean" : null,
+            "questionType" : 0,
+            "required" : 1,
+            "questionareId" : "0deebc03-d677-4201-9e4a-a01849cd5dd9",
+            "subTitle" : "心理行为（由家长填写）"
+          },
+          {
+            "gender" : -1,
+            "cid" : "2904",
+            "sequence" : 21,
+            "id" : 1925,
+            "questionareItemOptionsBeans" : [
+              {
+                "id" : 3458,
+                "optionName" : "A",
+                "optionContent" : "没有",
+                "questionareItemId" : 1925
+              },
+              {
+                "id" : 3459,
+                "optionName" : "B",
+                "optionContent" : "轻微",
+                "questionareItemId" : 1925
+              },
+              {
+                "id" : 3460,
+                "optionName" : "C",
+                "optionContent" : "一般",
+                "questionareItemId" : 1925
+              },
+              {
+                "id" : 3461,
+                "optionName" : "D",
+                "optionContent" : "较重",
+                "questionareItemId" : 1925
+              },
+              {
+                "id" : 3462,
+                "optionName" : "E",
+                "optionContent" : "很严重",
+                "questionareItemId" : 1925
+              }
+            ],
+            "title" : "恐惧",
+            "questionareItemResponseBean" : null,
+            "questionType" : 0,
+            "required" : 1,
+            "questionareId" : "0deebc03-d677-4201-9e4a-a01849cd5dd9",
+            "subTitle" : "心理行为（由家长填写）"
+          }
+        ],
+        "questionType" : 4,
+        "required" : 1,
+        "questionareId" : "0deebc03-d677-4201-9e4a-a01849cd5dd9",
+        "subTitle" : "心理行为（由家长填写）"
+      },
+      {
+        "gender" : -1,
+        "cid" : "30",
+        "sequence" : 22,
+        "id" : 1926,
+        "questionareItemOptionsBeans" : [
+          {
+            "id" : 3463,
+            "optionName" : "A",
+            "optionContent" : "没有",
+            "questionareItemId" : 1926
+          },
+          {
+            "id" : 3464,
+            "optionName" : "B",
+            "optionContent" : "有一点",
+            "questionareItemId" : 1926
+          },
+          {
+            "id" : 3465,
+            "optionName" : "C",
+            "optionContent" : "一般",
+            "questionareItemId" : 1926
+          },
+          {
+            "id" : 3466,
+            "optionName" : "D",
+            "optionContent" : "问题较重",
+            "questionareItemId" : 1926
+          },
+          {
+            "id" : 3467,
+            "optionName" : "E",
+            "optionContent" : "问题很严重",
+            "questionareItemId" : 1926
+          }
+        ],
+        "title" : "你的孩子在学校里有无学习问题？",
+        "questionareItemResponseBean" : [
+  
+        ],
+        "questionType" : 0,
+        "required" : 1,
+        "questionareId" : "0deebc03-d677-4201-9e4a-a01849cd5dd9",
+        "subTitle" : "心理行为（由家长填写）"
+      },
+      {
+        "gender" : -1,
+        "cid" : "31,F31_1",
+        "sequence" : 23,
+        "id" : 1927,
+        "questionareItemOptionsBeans" : [
+  
+        ],
+        "title" : "在过去7天中，你有{0}天进行高等强度运动\/体力活动？",
+        "questionareItemResponseBean" : [
+          {
+            "gender" : -1,
+            "cid" : "31,F31_2,F31_3",
+            "sequence" : 23,
+            "id" : 1928,
+            "questionareItemOptionsBeans" : [
+  
+            ],
+            "title" : "这类运动是要花费大力气完成，气喘吁吁、大汗或很累。例如跑步，篮球，足球，游泳，搬重物、跳绳、轮滑旱冰、跆拳道等;在这几天中，每天进行{0}小时{0}分钟进行这些高等强度运动\/体力活动？",
+            "questionareItemResponseBean" : null,
+            "questionType" : 2,
+            "required" : 1,
+            "questionareId" : "0deebc03-d677-4201-9e4a-a01849cd5dd9",
+            "subTitle" : "运动与睡眠(由学生填写,下面22-25题只计算那些每次至少10分钟的活动)"
+          }
+        ],
+        "questionType" : 2,
+        "required" : 1,
+        "questionareId" : "0deebc03-d677-4201-9e4a-a01849cd5dd9",
+        "subTitle" : "运动与睡眠(由学生填写,下面22-25题只计算那些每次至少10分钟的活动)"
+      },
+      {
+        "gender" : -1,
+        "cid" : "32,F32_1",
+        "sequence" : 24,
+        "id" : 1929,
+        "questionareItemOptionsBeans" : [
+  
+        ],
+        "title" : "在过去7天中，你有{0}天进行中等强度运动\/体力活动？",
+        "questionareItemResponseBean" : [
+          {
+            "gender" : -1,
+            "cid" : "32,F32_2,F32_3",
+            "sequence" : 24,
+            "id" : 1930,
+            "questionareItemOptionsBeans" : [
+  
+            ],
+            "title" : "这类运动是要花费中等力气完成，感觉有点气喘吁吁、出汗或有点累。例如骑自行车，乒乓球，羽毛球，跳舞，课间操，搬轻物等，不包括步行;在这几天中，每天进行{0}小时{0}分钟中等强度运动\/体力活动？",
+            "questionareItemResponseBean" : null,
+            "questionType" : 2,
+            "required" : 1,
+            "questionareId" : "0deebc03-d677-4201-9e4a-a01849cd5dd9",
+            "subTitle" : "运动与睡眠(由学生填写,下面22-25题只计算那些每次至少10分钟的活动)"
+          }
+        ],
+        "questionType" : 2,
+        "required" : 1,
+        "questionareId" : "0deebc03-d677-4201-9e4a-a01849cd5dd9",
+        "subTitle" : "运动与睡眠(由学生填写,下面22-25题只计算那些每次至少10分钟的活动)"
+      },
+      {
+        "gender" : -1,
+        "cid" : "33,F33_1",
+        "sequence" : 25,
+        "id" : 1931,
+        "questionareItemOptionsBeans" : [
+  
+        ],
+        "title" : "在过去7天中，你有{0}天步行（这里的步行包括在学校和家中的步行，往返学校或外出交通的步行以及为了锻炼身体进行的步行）;",
+        "questionareItemResponseBean" : [
+          {
+            "gender" : -1,
+            "cid" : "33,F33_2,F33_3",
+            "sequence" : 25,
+            "id" : 1932,
+            "questionareItemOptionsBeans" : [
+  
+            ],
+            "title" : "在这几天中，每天平均步行{0}小时{0}分钟？",
+            "questionareItemResponseBean" : null,
+            "questionType" : 2,
+            "required" : 1,
+            "questionareId" : "0deebc03-d677-4201-9e4a-a01849cd5dd9",
+            "subTitle" : "运动与睡眠(由学生填写,下面22-25题只计算那些每次至少10分钟的活动)"
+          }
+        ],
+        "questionType" : 2,
+        "required" : 1,
+        "questionareId" : "0deebc03-d677-4201-9e4a-a01849cd5dd9",
+        "subTitle" : "运动与睡眠(由学生填写,下面22-25题只计算那些每次至少10分钟的活动)"
+      },
+      {
+        "gender" : -1,
+        "cid" : "34,F34_1,F34_2",
+        "sequence" : 26,
+        "id" : 1933,
+        "questionareItemOptionsBeans" : [
+  
+        ],
+        "title" : "在过去7天中，放学后平均每天花{0}小时{0}分钟做作业？平均每天看电视{0}小时{0}分钟？平均每天花{0}小时{0}分钟用电脑或玩电子游戏？往返学校乘车（公交车、地铁、小车）时间？ 平均每天{0}小时{0}分钟",
+        "questionareItemResponseBean" : [
+  
+        ],
+        "questionType" : 2,
+        "required" : 1,
+        "questionareId" : "0deebc03-d677-4201-9e4a-a01849cd5dd9",
+        "subTitle" : "运动与睡眠(由学生填写,下面22-25题只计算那些每次至少10分钟的活动)"
+      },
+      {
+        "gender" : -1,
+        "cid" : "35",
+        "sequence" : 27,
+        "id" : 1934,
+        "questionareItemOptionsBeans" : [
+          {
+            "id" : 3468,
+            "optionName" : "A",
+            "optionContent" : "＜1小时",
+            "questionareItemId" : 1934
+          },
+          {
+            "id" : 3469,
+            "optionName" : "B",
+            "optionContent" : "1～2小时（不包括2小时）",
+            "questionareItemId" : 1934
+          },
+          {
+            "id" : 3470,
+            "optionName" : "C",
+            "optionContent" : "2～4小时",
+            "questionareItemId" : 1934
+          },
+          {
+            "id" : 3471,
+            "optionName" : "D",
+            "optionContent" : "＞4小时",
+            "questionareItemId" : 1934
+          }
+        ],
+        "title" : "最近七天，你平均每天的户外活动时间是多少？",
+        "questionareItemResponseBean" : [
+  
+        ],
+        "questionType" : 0,
+        "required" : 1,
+        "questionareId" : "0deebc03-d677-4201-9e4a-a01849cd5dd9",
+        "subTitle" : "运动与睡眠(由学生填写,下面22-25题只计算那些每次至少10分钟的活动)"
+      },
+      {
+        "gender" : -1,
+        "cid" : "36",
+        "sequence" : 28,
+        "id" : 1935,
+        "questionareItemOptionsBeans" : [
+          {
+            "id" : 3472,
+            "optionName" : "A",
+            "optionContent" : "＜30分钟",
+            "questionareItemId" : 1935
+  
+          },
+          {
+            "id" : 3473,
+            "optionName" : "B",
+            "optionContent" : "31～59分钟",
+            "questionareItemId" : 1935
+          },
+          {
+            "id" : 3474,
+            "optionName" : "C",
+            "optionContent" : "1～2小时（不包括2小时）",
+            "questionareItemId" : 1935
+          },
+          {
+            "id" : 3475,
+            "optionName" : "D",
+            "optionContent" : "2～4小时",
+            "questionareItemId" : 1935
+          },
+          {
+            "id" : 3476,
+            "optionName" : "E",
+            "optionContent" : "＞4小时",
+            "questionareItemId" : 1935
+          }
+        ],
+        "title" : "最近七天，如果是晴天你平均每天接触到太阳光的时间是多少？",
+        "questionareItemResponseBean" : [
+  
+        ],
+        "questionType" : 0,
+        "required" : 1,
+        "questionareId" : "0deebc03-d677-4201-9e4a-a01849cd5dd9",
+        "subTitle" : "运动与睡眠(由学生填写,下面22-25题只计算那些每次至少10分钟的活动)"
+      },
+      {
+        "gender" : -1,
+        "cid" : "37,F37_1,F37_2",
+        "sequence" : 29,
+        "id" : 1936,
+        "questionareItemOptionsBeans" : [
+  
+        ],
+        "title" : "你在过去30天中吸烟{0}天，平均每天吸{0}支。（如果不吸烟，请填“0”）",
+        "questionareItemResponseBean" : [
+  
+        ],
+        "questionType" : 2,
+        "required" : 1,
+        "questionareId" : "0deebc03-d677-4201-9e4a-a01849cd5dd9",
+        "subTitle" : "运动与睡眠(由学生填写,下面22-25题只计算那些每次至少10分钟的活动)"
+      },
+      {
+        "gender" : -1,
+        "cid" : null,
+        "sequence" : 30,
+        "id" : 1937,
+        "questionareItemOptionsBeans" : [
+  
+        ],
+        "title" : "过去一周内：",
+        "questionareItemResponseBean" : [
+          {
+            "gender" : -1,
+            "cid" : "38,F38_1_1,F38_1_2,F38_1_3,F38_1_4",
+            "sequence" : 30,
+            "id" : 1938,
+            "questionareItemOptionsBeans" : [
+  
+            ],
+            "title" : "平均晚上上床睡觉的时间是？周一至周五{0}时{0}分 周六至周日{0}时{0}分",
+            "questionareItemResponseBean" : null,
+            "questionType" : 2,
+            "required" : 1,
+            "questionareId" : "0deebc03-d677-4201-9e4a-a01849cd5dd9",
+            "subTitle" : "运动与睡眠(由学生填写,下面22-25题只计算那些每次至少10分钟的活动)"
+          },
+          {
+            "gender" : -1,
+            "cid" : "38,F38_2_1,F38_2_3",
+            "sequence" : 30,
+            "id" : 1939,
+            "questionareItemOptionsBeans" : [
+  
+            ],
+            "title" : "每晚通常要多长时间才能入睡？周一至周五{0}分钟 周六至周日{0}分钟",
+            "questionareItemResponseBean" : null,
+            "questionType" : 2,
+            "required" : 1,
+            "questionareId" : "0deebc03-d677-4201-9e4a-a01849cd5dd9",
+            "subTitle" : "运动与睡眠(由学生填写,下面22-25题只计算那些每次至少10分钟的活动)"
+          },
+          {
+            "gender" : -1,
+            "cid" : "38,F38_3_1,F38_3_2,F38_3_3,F38_3_4",
+            "sequence" : 30,
+            "id" : 1940,
+            "questionareItemOptionsBeans" : [
+  
+            ],
+            "title" : "平均早上起床的时间是？周一至周五{0}时{0}分 周六至周日{0}时{0}分",
+            "questionareItemResponseBean" : null,
+            "questionType" : 2,
+            "required" : 1,
+            "questionareId" : "0deebc03-d677-4201-9e4a-a01849cd5dd9",
+            "subTitle" : "运动与睡眠(由学生填写,下面22-25题只计算那些每次至少10分钟的活动)"
+          },
+          {
+            "gender" : -1,
+            "cid" : "38,F38_4_1,F38_4_3",
+            "sequence" : 30,
+            "id" : 1941,
+            "questionareItemOptionsBeans" : [
+  
+            ],
+            "title" : "平均中午睡觉时间有多长？周一至周五{0}分钟 周六至周日{0}分钟",
+            "questionareItemResponseBean" : null,
+            "questionType" : 2,
+            "required" : 1,
+            "questionareId" : "0deebc03-d677-4201-9e4a-a01849cd5dd9",
+            "subTitle" : "运动与睡眠(由学生填写,下面22-25题只计算那些每次至少10分钟的活动)"
+          }
+        ],
+        "questionType" : 4,
+        "required" : 1,
+        "questionareId" : "0deebc03-d677-4201-9e4a-a01849cd5dd9",
+        "subTitle" : "运动与睡眠(由学生填写,下面22-25题只计算那些每次至少10分钟的活动)"
+      },
+      {
+        "gender" : -1,
+        "cid" : "39,F39_1,F39_2",
+        "sequence" : 31,
+        "id" : 1942,
+        "questionareItemOptionsBeans" : [
+  
+        ],
+        "title" : "在过去7天中，你吃过{0}次水果? 平均每次吃了{0}份水果?（1份=1个鸡蛋大小）  ",
+        "questionareItemResponseBean" : [
+  
+        ],
+        "questionType" : 2,
+        "required" : 1,
+        "questionareId" : "0deebc03-d677-4201-9e4a-a01849cd5dd9",
+        "subTitle" : "膳食(由学生填写)"
+      },
+      {
+        "gender" : -1,
+        "cid" : "40,F40_1,F40_2",
+        "sequence" : 32,
+        "id" : 1943,
+        "questionareItemOptionsBeans" : [
+  
+        ],
+        "title" : "在过去7天中，你吃过{0}次蔬菜(不包括咸菜)? 平均每次吃了{0}份蔬菜? （1份=1个鸡蛋大小）  ",
+        "questionareItemResponseBean" : [
+  
+        ],
+        "questionType" : 2,
+        "required" : 1,
+        "questionareId" : "0deebc03-d677-4201-9e4a-a01849cd5dd9",
+        "subTitle" : "膳食(由学生填写)"
+      },
+      {
+        "gender" : -1,
+        "cid" : "41,F41_1,F41_2",
+        "sequence" : 33,
+        "id" : 1944,
+        "questionareItemOptionsBeans" : [
+  
+        ],
+        "title" : "在过去7天中，你有{0}天吃过粗粮（玉米、小米、高粱、燕麦、荞麦等）在吃粗粮的日子里,你平均每天吃了{0}份粗粮? （1份=1个鸡蛋大小）    ",
+        "questionareItemResponseBean" : [
+  
+        ],
+        "questionType" : 2,
+        "required" : 1,
+        "questionareId" : "0deebc03-d677-4201-9e4a-a01849cd5dd9",
+        "subTitle" : "膳食(由学生填写)"
+      },
+      {
+        "gender" : -1,
+        "cid" : "42,F42_1,F42_2",
+        "sequence" : 34,
+        "id" : 1945,
+        "questionareItemOptionsBeans" : [
+  
+        ],
+        "title" : "在过去7天中，你吃过{0}次鱼或鱼肉制品?  平均每次吃了{0}份鱼或鱼肉制品?（1份=1个鸡蛋大小）",
+        "questionareItemResponseBean" : [
+  
+        ],
+        "questionType" : 2,
+        "required" : 1,
+        "questionareId" : "0deebc03-d677-4201-9e4a-a01849cd5dd9",
+        "subTitle" : "膳食(由学生填写)"
+      },
+      {
+        "gender" : -1,
+        "cid" : "43,F43_1,F43_2",
+        "sequence" : 35,
+        "id" : 1946,
+        "questionareItemOptionsBeans" : [
+  
+        ],
+        "title" : "在过去7天中，你吃过{0}次红肉及其制品（猪肉、牛肉、羊肉）?  平均每次吃了{0}份红肉及其制品?（1份=1个鸡蛋大小）",
+        "questionareItemResponseBean" : [
+  
+        ],
+        "questionType" : 2,
+        "required" : 1,
+        "questionareId" : "0deebc03-d677-4201-9e4a-a01849cd5dd9",
+        "subTitle" : "膳食(由学生填写)"
+      },
+      {
+        "gender" : -1,
+        "cid" : "44,F44_1",
+        "sequence" : 36,
+        "id" : 1947,
+        "questionareItemOptionsBeans" : [
+  
+        ],
+        "title" : "在过去7天中，你吃过{0}次油炸食品(如炸鸡、薯条、油条和西式快餐如麦当劳、肯德基等)？",
+        "questionareItemResponseBean" : [
+  
+        ],
+        "questionType" : 2,
+        "required" : 1,
+        "questionareId" : "0deebc03-d677-4201-9e4a-a01849cd5dd9",
+        "subTitle" : "膳食(由学生填写)"
+      },
+      {
+        "gender" : -1,
+        "cid" : "45,F45_1,F45_2",
+        "sequence" : 37,
+        "id" : 1948,
+        "questionareItemOptionsBeans" : [
+  
+        ],
+        "title" : "在过去7天中，你喝过{0}次含糖软饮料？（如可乐，雪碧，橙汁、营养快线、红牛等） 平均每次喝了{0}杯含糖软饮料?（1杯相当于250毫升）",
+        "questionareItemResponseBean" : [
+  
+        ],
+        "questionType" : 2,
+        "required" : 1,
+        "questionareId" : "0deebc03-d677-4201-9e4a-a01849cd5dd9",
+        "subTitle" : "膳食(由学生填写)"
+      },
+      {
+        "gender" : -1,
+        "cid" : "46,F46_1",
+        "sequence" : 38,
+        "id" : 1949,
+        "questionareItemOptionsBeans" : [
+  
+        ],
+        "title" : "在过去7天中，你共喝过{0}次奶及其制品（鲜奶、酸奶或奶粉等）?  ",
+        "questionareItemResponseBean" : [
+          {
+            "gender" : -1,
+            "cid" : "4601,F4601_1",
+            "sequence" : 38,
+            "id" : 1950,
+            "questionareItemOptionsBeans" : [
+  
+            ],
+            "title" : "（1）你每次摄入奶的量是{0}毫升？（1盒牛奶250毫升，1瓶酸奶150毫升；1勺奶粉30毫升）",
+            "questionareItemResponseBean" : null,
+            "questionType" : 2,
+            "required" : 1,
+            "questionareId" : "0deebc03-d677-4201-9e4a-a01849cd5dd9",
+            "subTitle" : "膳食(由学生填写)"
+          },
+          {
+            "gender" : -1,
+            "cid" : "4602,F4602_1_1,F4602_1_2",
+            "sequence" : 38,
+            "id" : 1951,
+            "questionareItemOptionsBeans" : [
+  
+            ],
+            "title" : "全脂牛奶\/奶粉{0}次，每次{0}毫升",
+            "questionareItemResponseBean" : null,
+            "questionType" : 2,
+            "required" : 1,
+            "questionareId" : "0deebc03-d677-4201-9e4a-a01849cd5dd9",
+            "subTitle" : "膳食(由学生填写)"
+          },
+          {
+            "gender" : -1,
+            "cid" : "4602,F4602_2_1,F4602_2_2",
+            "sequence" : 38,
+            "id" : 1952,
+            "questionareItemOptionsBeans" : [
+  
+            ],
+            "title" : "脱\/低脂牛奶\/奶粉{0}次，每次{0}毫升",
+            "questionareItemResponseBean" : null,
+            "questionType" : 2,
+            "required" : 1,
+            "questionareId" : "0deebc03-d677-4201-9e4a-a01849cd5dd9",
+            "subTitle" : "膳食(由膳食(由学生填写)"
+          },
+          {
+            "gender" : -1,
+            "cid" : "4602,F4602_1_1,F4602_1_2",
+            "sequence" : 38,
+            "id" : 1951,
+            "questionareItemOptionsBeans" : [
+  
+            ],
+            "title" : "全脂牛奶\/奶粉{0}次，每次{0}毫升",
+            "questionareItemResponseBean" : null,
+            "questionType" : 2,
+            "required" : 1,
+            "questionareId" : "0deebc03-d677-4201-9e4a-a01849cd5dd9",
+            "subTitle" : "膳食(由学生填写)"
+          },
+          {
+            "gender" : -1,
+            "cid" : "4602,F4602_2_1,F4602_2_2",
+            "sequence" : 38,
+            "id" : 1952,
+            "questionareItemOptionsBeans" : [
+  
+            ],
+            "title" : "脱\/低脂牛奶\/奶粉{0}次，每次{0}毫升",
+            "questionareItemResponseBean" : null,
+            "questionType" : 2,
+            "required" : 1,
+            "questionareId" : "0deebc03-d677-4201-9e4a-a01849cd5dd9",
+            "subTitle" : "膳食(由学生填写)"
+          },
+          {
+            "gender" : -1,
+            "cid" : "4602,F4602_3_1,F4602_3_2",
+            "sequence" : 38,
+            "id" : 1953,
+            "questionareItemOptionsBeans" : [
+  
+            ],
+            "title" : "全脂酸奶{0}次，每次{0}毫升",
+            "questionareItemResponseBean" : null,
+            "questionType" : 2,
+            "required" : 1,
+            "questionareId" : "0deebc03-d677-4201-9e4a-a01849cd5dd9",
+            "subTitle" : "膳食(由学生填写)"
+          },
+          {
+            "gender" : -1,
+            "cid" : "4602,F4602_4_1,F4602_4_2",
+            "sequence" : 38,
+            "id" : 1954,
+            "questionareItemOptionsBeans" : [
+  
+            ],
+            "title" : "脱脂酸奶{0}次，每次{0}毫升",
+            "questionareItemResponseBean" : null,
+            "questionType" : 2,
+            "required" : 1,
+            "questionareId" : "0deebc03-d677-4201-9e4a-a01849cd5dd9",
+            "subTitle" : "膳食(由学生填写)"
+          },
+  
+          {
+            "gender" : -1,
+            "cid" : "4602,F4602_5_1,F4602_5_2",
+            "sequence" : 38,
+            "id" : 1955,
+            "questionareItemOptionsBeans" : [
+  
+            ],
+            "title" : "含乳饮料(优酸乳\/营养快线等) {0}次，每次{0}毫升",
+            "questionareItemResponseBean" : null,
+            "questionType" : 2,
+            "required" : 1,
+            "questionareId" : "0deebc03-d677-4201-9e4a-a01849cd5dd9",
+            "subTitle" : "膳食(由学生填写)"
+          },
+          {
+            "gender" : -1,
+            "cid" : "4602,F4602_6_1,F4602_6_2",
+            "sequence" : 38,
+            "id" : 1956,
+            "questionareItemOptionsBeans" : [
+  
+            ],
+            "title" : "奶茶、奶昔{0}次，每次{0}毫升",
+            "questionareItemResponseBean" : null,
+            "questionType" : 2,
+            "required" : 1,
+            "questionareId" : "0deebc03-d677-4201-9e4a-a01849cd5dd9",
+            "subTitle" : "膳食(由学生填写)"
+          },
+          {
+            "gender" : -1,
+            "cid" : "4602,F4602_7_1,F4602_7_2",
+            "sequence" : 38,
+            "id" : 1957,
+            "questionareItemOptionsBeans" : [
+  
+            ],
+            "title" : "芝士、奶酪{0}次，每次{0}片 (1片约20克)",
+            "questionareItemResponseBean" : null,
+            "questionType" : 2,
+            "required" : 1,
+            "questionareId" : "0deebc03-d677-4201-9e4a-a01849cd5dd9",
+            "subTitle" : "膳食(由学生填写)"
+          },
+          {
+            "gender" : -1,
+            "cid" : "4602,F4602_8_1,F4602_8_2",
+            "sequence" : 38,
+            "id" : 1958,
+            "questionareItemOptionsBeans" : [
+  
+            ],
+            "title" : "雪糕、甜筒{0}次，每次{0}个 (1个约80克)",
+            "questionareItemResponseBean" : null,
+            "questionType" : 2,
+            "required" : 1,
+            "questionareId" : "0deebc03-d677-4201-9e4a-a01849cd5dd9",
+            "subTitle" : "膳食(由学生填写)"
+          }
+        ],
+        "questionType" : 2,
+        "required" : 1,
+        "questionareId" : "0deebc03-d677-4201-9e4a-a01849cd5dd9",
+        "subTitle" : "膳食(由学生填写)"
+      },
+      {
+        "gender" : -1,
+        "cid" : "47,F47_1",
+        "sequence" : 39,
+        "id" : 1959,
+        "questionareItemOptionsBeans" : [
+  
+        ],
+        "title" : "在过去7天中，你吃过{0}次大豆及其制品（大豆、豆浆、豆腐、豆奶、豆腐花、腐竹、腐乳）? ",
+        "questionareItemResponseBean" : [
+          {
+            "gender" : -1,
+            "cid" : "4701,F4701_1",
+            "sequence" : 39,
+            "id" : 1960,
+            "questionareItemOptionsBeans" : [
+  
+            ],
+            "title" : "你每次喝{0}杯液态豆制品（豆浆、豆奶、豆腐花）？（1杯相当于250ml）",
+            "questionareItemResponseBean" : null,
+            "questionType" : 2,
+            "required" : 1,
+            "questionareId" : "0deebc03-d677-4201-9e4a-a01849cd5dd9",
+            "subTitle" : "膳食(由学生填写)"
+          },
+          {
+            "gender" : -1,
+            "cid" : "4702,F4702_1",
+            "sequence" : 39,
+            "id" : 1961,
+            "questionareItemOptionsBeans" : [
+  
+            ],
+            "title" : "你每次吃{0}份固态豆制品（大豆、豆腐、豆腐丝、腐竹、腐乳）?（1份=1个鸡蛋大小）",
+            "questionareItemResponseBean" : null,
+            "questionType" : 2,
+            "required" : 1,
+            "questionareId" : "0deebc03-d677-4201-9e4a-a01849cd5dd9",
+            "subTitle" : "膳食(由学生填写)"
+          },
+          {
+            "gender" : -1,
+            "cid" : "4703,F4703_14_1",
+            "sequence" : 39,
+            "id" : 1962,
+            "questionareItemOptionsBeans" : [
+              {
+                "id" : 3477,
+                "optionName" : "A",
+                "optionContent" : "大豆",
+                "questionareItemId" : 1962
+              },
+              {
+                "id" : 3478,
+                "optionName" : "B",
+                "optionContent" : "绿豆",
+                "questionareItemId" : 1962
+              },
+              {
+                "id" : 3479,
+                "optionName" : "C",
+                "optionContent" : "赤豆（红豆）",
+                "questionareItemId" : 1962
+              },
+              {
+                "id" : 3480,
+                "optionName" : "D",
+                "optionContent" : "芸豆",
+                "questionareItemId" : 1962
+              },
+              {
+                "id" : 3481,
+                "optionName" : "E",
+                "optionContent" : "蚕豆",
+                "questionareItemId" : 1962
+              },
+              {
+                "id" : 3482,
+                "optionName" : "F",
+                "optionContent" : "豌豆",
+                "questionareItemId" : 1962
+              },
+              {
+                "id" : 3483,
+                "optionName" : "G",
+                "optionContent" : "豆腐",
+                "questionareItemId" : 1962
+              },
+              {
+                "id" : 3484,
+                "optionName" : "H",
+                "optionContent" : "豆浆",
+                "questionareItemId" : 1962
+              },
+              {
+                "id" : 3485,
+                "optionName" : "I",
+                "optionContent" : "豆奶",
+                "questionareItemId" : 1962
+              },
+              {
+                "id" : 3486,
+                "optionName" : "J",
+                "optionContent" : "豆腐花",
+                "questionareItemId" : 1962
+              },
+              {
+                "id" : 3487,
+                "optionName" : "K",
+                "optionContent" : "豆腐干",
+                "questionareItemId" : 1962
+              },
+              {
+                "id" : 3488,
+                "optionName" : "L",
+                "optionContent" : "豆腐丝（皮）",
+                "questionareItemId" : 1962
+              },
+              {
+                "id" : 3489,
+                "optionName" : "M",
+                "optionContent" : "腐竹",
+                "questionareItemId" : 1962
+              },
+              {
+                "id" : 3490,
+                "optionName" : "N",
+                "optionContent" : "其它{0}",
+                "questionareItemId" : 1962
+              }
+            ],
+            "title" : "你经常吃的豆类及其制品的种类是（可多选）:",
+            "questionareItemResponseBean" : null,
+            "questionType" : 1,
+            "required" : 1,
+            "questionareId" : "0deebc03-d677-4201-9e4a-a01849cd5dd9",
+            "subTitle" : "膳食(由学生填写)"
+          }
+        ],
+        "questionType" : 2,
+        "required" : 1,
+        "questionareId" : "0deebc03-d677-4201-9e4a-a01849cd5dd9",
+        "subTitle" : "膳食(由学生填写)"
+      },
+      {
+        "gender" : -1,
+        "cid" : "48,F48_1",
+        "sequence" : 41,
+        "id" : 1963,
+        "questionareItemOptionsBeans" : [
+  
+        ],
+        "title" : "在过去7天中，你有{0}天吃过早餐？",
+        "questionareItemResponseBean" : [
+  
+        ],
+        "questionType" : 2,
+        "required" : 1,
+        "questionareId" : "0deebc03-d677-4201-9e4a-a01849cd5dd9",
+        "subTitle" : "膳食(由学生填写)"
+      },
+      {
+        "gender" : -1,
+        "cid" : "49",
+        "sequence" : 42,
+        "id" : 1964,
+        "questionareItemOptionsBeans" : [
+          {
+            "id" : 3491,
+            "optionName" : "A",
+            "optionContent" : "比别人慢",
+            "questionareItemId" : 1964
+          },
+          {
+            "id" : 3492,
+            "optionName" : "B",
+            "optionContent" : "快慢和别人一样",
+            "questionareItemId" : 1964
+          },
+          {
+            "id" : 3493,
+            "optionName" : "C",
+            "optionContent" : "比别人快",
+            "questionareItemId" : 1964
+          }
+        ],
+        "title" : "你吃饭的速度与同班同性别的同学相比：",
+        "questionareItemResponseBean" : [
+          {
+            "gender" : -1,
+            "cid" : "4901,F4901_1",
+            "sequence" : 42,
+            "id" : 1965,
+            "questionareItemOptionsBeans" : [
+  
+            ],
+            "title" : "你的午餐和晚餐平均每顿吃{0}分钟",
+            "questionareItemResponseBean" : null,
+            "questionType" : 2,
+            "required" : 1,
+            "questionareId" : "0deebc03-d677-4201-9e4a-a01849cd5dd9",
+            "subTitle" : "膳食(由学生填写)"
+          },
+          {
+            "gender" : -1,
+            "cid" : "4902",
+            "sequence" : 42,
+            "id" : 1966,
+            "questionareItemOptionsBeans" : [
+              {
+                "id" : 3494,
+                "optionName" : "A",
+                "optionContent" : "偏咸（盐多）",
+                "questionareItemId" : 1966
+              },
+              {
+                "id" : 3495,
+                "optionName" : "B",
+                "optionContent" : "适中（不咸不淡）",
+                "questionareItemId" : 1966
+              },
+              {
+                "id" : 3496,
+                "optionName" : "C",
+                "optionContent" : "清淡（盐少）",
+                "questionareItemId" : 1966
+              }
+            ],
+            "title" : "你饮食口味倾向于：",
+            "questionareItemResponseBean" : null,
+            "questionType" : 0,
+            "required" : 1,
+            "questionareId" : "0deebc03-d677-4201-9e4a-a01849cd5dd9",
+            "subTitle" : "膳食(由学生填写)"
+          }
+        ],
+        "questionType" : 0,
+        "required" : 1,
+        "questionareId" : "0deebc03-d677-4201-9e4a-a01849cd5dd9",
+        "subTitle" : "膳食(由学生填写)"
+      },
+      {
+        "gender" : -1,
+        "cid" : "50",
+        "sequence" : 43,
+        "id" : 1967,
+        "questionareItemOptionsBeans" : [
+          {
+            "id" : 3497,
+            "optionName" : "A",
+            "optionContent" : "是。你是从{0}岁开始挑食的？",
+            "questionareItemId" : 1967
+          },
+          {
+            "id" : 3498,
+            "optionName" : "B",
+            "optionContent" : "否",
+            "questionareItemId" : 1967
+          }
+        ],
+        "title" : "你是否挑食：",
+        "questionareItemResponseBean" : [
+          {
+            "gender" : -1,
+            "cid" : "5001,F5001_9_1",
+            "sequence" : 43,
+            "id" : 1968,
+            "questionareItemOptionsBeans" : [
+              {
+                "id" : 3499,
+                "optionName" : "A",
+                "optionContent" : "乳类及其制品",
+                "questionareItemId" : 1968
+              },
+              {
+                "id" : 3500,
+                "optionName" : "B",
+                "optionContent" : "豆类及其制品",
+                "questionareItemId" : 1968
+              },
+              {
+                "id" : 3501,
+                "optionName" : "C",
+                "optionContent" : "谷类及其制品",
+                "questionareItemId" : 1968
+              },
+              {
+                "id" : 3502,
+                "optionName" : "D",
+                "optionContent" : "蔬菜",
+                "questionareItemId" : 1968
+              },
+              {
+                "id" : 3503,
+                "optionName" : "E",
+                "optionContent" : "水果 ",
+                "questionareItemId" : 1968
+              },
+              {
+                "id" : 3504,
+                "optionName" : "F",
+                "optionContent" : "肉类",
+                "questionareItemId" : 1968
+              },
+              {
+                "id" : 3505,
+                "optionName" : "G",
+                "optionContent" : "甜点",
+                "questionareItemId" : 1968
+              },
+              {
+                "id" : 3506,
+                "optionName" : "H",
+                "optionContent" : "蛋类",
+                "questionareItemId" : 1968
+              },
+              {
+                "id" : 3507,
+                "optionName" : "I",
+                "optionContent" : "其他{0}",
+                "questionareItemId" : 1968
+              }
+            ],
+            "title" : "你不吃下面哪些食品 （可多选）：",
+            "questionareItemResponseBean" : null,
+            "questionType" : 1,
+            "required" : 1,
+            "questionareId" : "0deebc03-d677-4201-9e4a-a01849cd5dd9",
+            "subTitle" : "膳食(由学生填写)"
+          }
+        ],
+        "questionType" : 0,
+        "required" : 1,
+        "questionareId" : "0deebc03-d677-4201-9e4a-a01849cd5dd9",
+        "subTitle" : "膳食(由学生填写)"
+      }
+    ],
+    "questionareName" : "2018中小学生健康监测调查问卷",
+    "questionareYear" : 2018
+  }
+  
